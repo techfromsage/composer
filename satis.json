@@ -1,0 +1,63 @@
+{
+    "name": "talis/composer",
+    "description": "Talis Composer repository",
+    "homepage": "https://composer.talis.io/",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/talis/bling"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/talis/bootstrap-sass"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/talis/conneg"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/talis/f3"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/talis/fatfree"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/talis/LTI1x-php"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/talis/php-niso-openurl"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/talis/resque-multiple-failure-queues"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/talis/selenium-server-standalone"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/talis/sierra-api-php-client"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/talis/SRUClient-php"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/talis/talis-php"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/talis/tripod-php"
+        }
+    ],
+    "require-all": true,
+    "require-dependencies": true,
+    "require-dev-dependencies": false,
+    "twig-template": "talis-theme/index.html.twig"
+}

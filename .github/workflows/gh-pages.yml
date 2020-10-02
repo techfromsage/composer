@@ -1,0 +1,47 @@
+name: Publish to GitHub pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Composer cache
+        uses: actions/cache@v2
+        with:
+          path: ~/.composer/cache/repo
+          key: composer-cache
+
+      - name: Prepare Composer auth
+        run: |
+          mkdir -p ~/.composer
+          cat > ~/.composer/auth.json <<EOL
+          {
+            "github-oauth": {
+              "github.com": "${{ secrets.GH_PAT }}"
+            }
+          }
+          EOL
+
+      - name: Build the repository and site
+        run: ./build.sh
+
+      - name: Put the CNAME
+        if: success()
+        run: echo 'composer.talis.io' > dist/CNAME
+
+      - name: Deploy to GitHub Pages
+        if: success()
+        uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: gh-pages
+          build_dir: dist
+          jekyll: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
