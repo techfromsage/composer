@@ -2,7 +2,20 @@
     "name": "talis/composer",
     "description": "Talis Composer repository",
     "homepage": "https://composer.talis.io/",
+    "abandoned": {
+        "chrisboulton/php-resque": "resque/php-resque",
+        "talis/php-resque": "resque/php-resque",
+        "talis/simplesamlphp": "simplesamlphp/simplesamlphp"
+    },
     "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/OCLC-Developer-Network/oclc-auth-php"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/rsinger/worldcat-linkeddata-php"
+        },
         {
             "type": "vcs",
             "url": "https://github.com/talis/bling"
@@ -33,6 +46,10 @@
         },
         {
             "type": "vcs",
+            "url": "https://github.com/talis/php-resque"
+        },
+        {
+            "type": "vcs",
             "url": "https://github.com/talis/resque-multiple-failure-queues"
         },
         {
@@ -42,6 +59,10 @@
         {
             "type": "vcs",
             "url": "https://github.com/talis/sierra-api-php-client"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/talis/simplesamlphp"
         },
         {
             "type": "vcs",
