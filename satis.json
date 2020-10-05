@@ -17,6 +17,38 @@
             "url": "https://github.com/rsinger/worldcat-linkeddata-php"
         },
         {
+            "type": "package",
+            "package": {
+                "name": "t0k4rt/phpqrcode",
+                "version": "1.1.4",
+                "homepage": "https://github.com/t0k4rt/phpqrcode",
+                "description": "PHP implementation of QR Code 2-D barcode generator",
+                "authors": [
+                    {
+                        "name": "Alexandre Assouad",
+                        "email": "assouad@kairostag.com"
+                    },
+                    {
+                        "name": "Dominik Dzienia",
+                        "email": "deltalab@poczta.fm"
+                    }
+                ],
+                "license": [
+                    "LGPL-3.0"
+                ],
+                "source": {
+                    "url": "https://github.com/t0k4rt/phpqrcode",
+                    "type": "git",
+                    "reference": "d213c4819a4607f0c94d8eda4b4dec9ef3b79ae2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/t0k4rt/phpqrcode/zipball/d213c4819a4607f0c94d8eda4b4dec9ef3b79ae2",
+                    "reference": "d213c4819a4607f0c94d8eda4b4dec9ef3b79ae2"
+                }
+            }
+        },
+        {
             "type": "vcs",
             "url": "https://github.com/talis/bling"
         },
