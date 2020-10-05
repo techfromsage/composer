@@ -6,11 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="noindex,nofollow" />
-
     <title>{{ name|default('Composer repository') }}</title>
-
-    <link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&subset=latin&display=swap" />
-
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
     <style type="text/css">
         {% include 'build/style.css' %}
         body { font-family: "Open Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; }
@@ -19,6 +16,8 @@
         code { color: #c5197d; }
         .bg-primary { background-color: #017d87 !important; }
         .border-primary { border-color: #017d87 !important; }
+        .bg-danger { background-color: #c42129 !important; }
+        .border-danger { border-color: #c42129 !important; }
         .form-control:focus { border-color: #017d87; box-shadow: 0 0 0 1px #017d87; outline: 0; }
         pre.file { padding: .5rem .75rem; border-left: 3px solid #ffc943 !important; }
     </style>

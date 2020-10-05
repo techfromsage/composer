@@ -12,11 +12,11 @@
         </a>
 
         {% if package.abandoned %}
-        <p class="abandoned">
+        <p class="abandoned mt-1 mb-0 text-white">
             <strong>Abandoned!</strong>
             Package is abandoned, you should avoid using it.
             {% if package.replacement %}
-                Use {{ package.replacement }} instead.
+                Use <code class="text-white">{{ package.replacement }}</code> instead.
             {% else %}
                 No replacement was suggested.
             {% endif %}
