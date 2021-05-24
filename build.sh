@@ -15,7 +15,7 @@ docker run --rm \
     --user "$(id -u):$(id -g)" \
     --volume "${PWD}:/build" \
     --volume "${COMPOSER_HOME}:/composer" \
-    composer/satis:1.x \
+    composer/satis:latest \
     build --ansi -vv satis.json dist
 
 cp talis-theme/favicon.ico dist/
