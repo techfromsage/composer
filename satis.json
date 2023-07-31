@@ -107,6 +107,14 @@
         {
             "type": "vcs",
             "url": "https://github.com/talis/tripod-php"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/talis/php-cloud-files"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/talis/aws-sdk-php"
         }
     ],
     "require-all": true,
