@@ -19,4 +19,4 @@ Head over to https://composer.talis.io/ to browse available packages.
 
 In case a new version of a package has been tagged, you should update the repository so you can use that new version.
 
-Go to [Actions 🡪 Workflows 🡪 Publish to GitHub pages](https://github.com/talis/composer/actions?query=workflow%3A%22Publish+to+GitHub+pages%22) and click on `Run workflow` button to trigger it.
+Go to [Actions 🡪 Workflows 🡪 Publish to GitHub pages](https://github.com/talis/composer/actions/workflows/gh-pages.yml) and click on `Run workflow` button to trigger it.
