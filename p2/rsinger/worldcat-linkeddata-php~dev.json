@@ -1,0 +1,64 @@
+{
+    "packages": {
+        "rsinger/worldcat-linkeddata-php": [
+            {
+                "name": "rsinger/worldcat-linkeddata-php",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rsinger/worldcat-linkeddata-php.git",
+                    "reference": "8c6f1ae86cb516438aa81859ca2c0cf238cd0d4a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rsinger/worldcat-linkeddata-php/zipball/8c6f1ae86cb516438aa81859ca2c0cf238cd0d4a",
+                    "reference": "8c6f1ae86cb516438aa81859ca2c0cf238cd0d4a",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "~6.2",
+                    "monolog/monolog": "~1.22",
+                    "php": ">=5.5.0"
+                },
+                "require-dev": {
+                    "php-vcr/php-vcr": "^1.3",
+                    "phpunit/phpunit": "~4.8",
+                    "psy/psysh": "~0.8"
+                },
+                "time": "2017-10-06T19:08:30+00:00",
+                "default-branch": true,
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "WorldCatLD\\": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Ross Singer",
+                        "email": "rossfsinger@gmail.com",
+                        "homepage": "https://rossfsinger.com/"
+                    }
+                ],
+                "description": "This is a PHP linked data client for WorldCat.org",
+                "homepage": "https://github.com/rsinger/worldcat-linkeddata-php",
+                "keywords": [
+                    "client library",
+                    "frbr",
+                    "linked data",
+                    "oclc",
+                    "php",
+                    "xisbn"
+                ],
+                "support": {
+                    "source": "https://github.com/rsinger/worldcat-linkeddata-php/tree/v0.3.1",
+                    "issues": "https://github.com/rsinger/worldcat-linkeddata-php/issues"
+                }
+            }
+        ]
+    }
+}

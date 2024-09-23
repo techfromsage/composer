@@ -1,0 +1,71 @@
+{
+    "packages": {
+        "talis/f3": [
+            {
+                "name": "talis/f3",
+                "version": "dev-dev-34",
+                "version_normalized": "dev-dev-34",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/f3.git",
+                    "reference": "9a6b6270e5164e660cf737a98da000813315975e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/f3/zipball/9a6b6270e5164e660cf737a98da000813315975e",
+                    "reference": "9a6b6270e5164e660cf737a98da000813315975e",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3.6"
+                },
+                "time": "2015-03-09T21:15:33+00:00",
+                "type": "library",
+                "autoload": {
+                    "files": [
+                        "lib/base.php"
+                    ]
+                },
+                "license": [
+                    "GPL-3.0"
+                ],
+                "description": "A powerful yet easy-to-use PHP micro-framework designed to help you build dynamic and robust Web applications - fast!",
+                "homepage": "http://fatfreeframework.com/",
+                "support": {
+                    "source": "https://github.com/techfromsage/f3/tree/dev-34",
+                    "issues": "https://github.com/techfromsage/f3/issues"
+                }
+            },
+            {
+                "name": "talis/f3",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/f3.git",
+                    "reference": "75e3bcbdd421d746b787c6701ee4bf6d8bec0618"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/f3/zipball/75e3bcbdd421d746b787c6701ee4bf6d8bec0618",
+                    "reference": "75e3bcbdd421d746b787c6701ee4bf6d8bec0618",
+                    "shasum": ""
+                },
+                "time": "2013-10-22T08:56:44+00:00",
+                "default-branch": true,
+                "type": "library",
+                "authors": [
+                    {
+                        "name": "Talis",
+                        "email": "ab@talis.com"
+                    }
+                ],
+                "homepage": "http://talis.com",
+                "support": {
+                    "source": "https://github.com/techfromsage/f3/tree/2.0.12.2",
+                    "issues": "https://github.com/techfromsage/f3/issues"
+                }
+            }
+        ]
+    }
+}

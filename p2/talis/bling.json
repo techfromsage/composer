@@ -1,0 +1,1148 @@
+{
+    "packages": {
+        "talis/bling": [
+            {
+                "name": "talis/bling",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:techfromsage/bling.git",
+                    "reference": "0231d063bc0e137d1ad95befdad01675e7104a56"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bling/zipball/0231d063bc0e137d1ad95befdad01675e7104a56",
+                    "reference": "0231d063bc0e137d1ad95befdad01675e7104a56",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzle/guzzle": ">=3.8@stable",
+                    "monolog/monolog": ">=1.5.0@stable",
+                    "php": ">=5.3.0",
+                    "phpunit/phpunit": ">=3.7.0@stable"
+                },
+                "time": "2014-03-07T14:28:12+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "bling\\": "src/bling"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Andrew Bate",
+                        "email": "ab@talis.com",
+                        "homepage": "http://www.talis.com"
+                    }
+                ],
+                "description": "Integration with the British Library scanning service",
+                "homepage": "http://github.com/talis/bling",
+                "support": {
+                    "source": "https://github.com/techfromsage/bling/tree/0.1.1",
+                    "issues": "https://github.com/techfromsage/bling/issues"
+                }
+            },
+            {
+                "name": "talis/bling",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:techfromsage/bling.git",
+                    "reference": "0231d063bc0e137d1ad95befdad01675e7104a56"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bling/zipball/0231d063bc0e137d1ad95befdad01675e7104a56",
+                    "reference": "0231d063bc0e137d1ad95befdad01675e7104a56",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzle/guzzle": ">=3.8@stable",
+                    "monolog/monolog": ">=1.5.0@stable",
+                    "php": ">=5.3.0",
+                    "phpunit/phpunit": ">=3.7.0@stable"
+                },
+                "time": "2014-03-07T14:28:12+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "bling\\": "src/bling"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Andrew Bate",
+                        "email": "ab@talis.com",
+                        "homepage": "http://www.talis.com"
+                    }
+                ],
+                "description": "Integration with the British Library scanning service",
+                "homepage": "http://github.com/talis/bling",
+                "support": {
+                    "source": "https://github.com/techfromsage/bling/tree/0.1.1",
+                    "issues": "https://github.com/techfromsage/bling/issues"
+                }
+            },
+            {
+                "name": "talis/bling",
+                "version": "0.1.10",
+                "version_normalized": "0.1.10.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:techfromsage/bling.git",
+                    "reference": "467b55dc041944975cbc9e7a3a93b1da68e5eaaa"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bling/zipball/467b55dc041944975cbc9e7a3a93b1da68e5eaaa",
+                    "reference": "467b55dc041944975cbc9e7a3a93b1da68e5eaaa",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzle/guzzle": ">=3.8@stable",
+                    "monolog/monolog": ">=1.5.0@stable",
+                    "php": ">=5.3.0",
+                    "phpunit/phpunit": ">=3.7.0@stable"
+                },
+                "time": "2014-05-01T10:48:57+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "bling\\": "src/bling"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Andrew Bate",
+                        "email": "ab@talis.com",
+                        "homepage": "http://www.talis.com"
+                    }
+                ],
+                "description": "PHP library for integrating with the British Library Document Supply Service (BLDSS)",
+                "homepage": "http://github.com/talis/bling",
+                "support": {
+                    "source": "https://github.com/techfromsage/bling/tree/0.1.10",
+                    "issues": "https://github.com/techfromsage/bling/issues"
+                }
+            },
+            {
+                "name": "talis/bling",
+                "version": "0.1.11",
+                "version_normalized": "0.1.11.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:techfromsage/bling.git",
+                    "reference": "a1a70aa347934bc9d5b8e15450991d04460effe6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bling/zipball/a1a70aa347934bc9d5b8e15450991d04460effe6",
+                    "reference": "a1a70aa347934bc9d5b8e15450991d04460effe6",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzle/guzzle": ">=3.8@stable",
+                    "monolog/monolog": ">=1.5.0@stable",
+                    "php": ">=5.3.0",
+                    "phpunit/phpunit": ">=3.7.0@stable"
+                },
+                "time": "2014-05-01T12:25:30+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "bling\\": "src/bling"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Andrew Bate",
+                        "email": "ab@talis.com",
+                        "homepage": "http://www.talis.com"
+                    }
+                ],
+                "description": "PHP library for integrating with the British Library Document Supply Service (BLDSS)",
+                "homepage": "http://github.com/talis/bling",
+                "support": {
+                    "source": "https://github.com/techfromsage/bling/tree/0.1.11",
+                    "issues": "https://github.com/techfromsage/bling/issues"
+                }
+            },
+            {
+                "name": "talis/bling",
+                "version": "0.1.2",
+                "version_normalized": "0.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:techfromsage/bling.git",
+                    "reference": "d70f143071e17dc674630a180cdec73719fb7231"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bling/zipball/d70f143071e17dc674630a180cdec73719fb7231",
+                    "reference": "d70f143071e17dc674630a180cdec73719fb7231",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzle/guzzle": ">=3.8@stable",
+                    "monolog/monolog": ">=1.5.0@stable",
+                    "php": ">=5.3.0",
+                    "phpunit/phpunit": ">=3.7.0@stable"
+                },
+                "time": "2014-03-11T08:46:28+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "bling\\": "src/bling"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Andrew Bate",
+                        "email": "ab@talis.com",
+                        "homepage": "http://www.talis.com"
+                    }
+                ],
+                "description": "Integration with the British Library scanning service",
+                "homepage": "http://github.com/talis/bling",
+                "support": {
+                    "source": "https://github.com/techfromsage/bling/tree/0.1.2",
+                    "issues": "https://github.com/techfromsage/bling/issues"
+                }
+            },
+            {
+                "name": "talis/bling",
+                "version": "0.1.3",
+                "version_normalized": "0.1.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:techfromsage/bling.git",
+                    "reference": "e13177b26dbe68a25b18cf7cf10424ec331fb8d6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bling/zipball/e13177b26dbe68a25b18cf7cf10424ec331fb8d6",
+                    "reference": "e13177b26dbe68a25b18cf7cf10424ec331fb8d6",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzle/guzzle": ">=3.8@stable",
+                    "monolog/monolog": ">=1.5.0@stable",
+                    "php": ">=5.3.0",
+                    "phpunit/phpunit": ">=3.7.0@stable"
+                },
+                "time": "2014-03-12T09:30:43+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "bling\\": "src/bling"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Andrew Bate",
+                        "email": "ab@talis.com",
+                        "homepage": "http://www.talis.com"
+                    }
+                ],
+                "description": "Integration with the British Library scanning service",
+                "homepage": "http://github.com/talis/bling",
+                "support": {
+                    "source": "https://github.com/techfromsage/bling/tree/0.1.3",
+                    "issues": "https://github.com/techfromsage/bling/issues"
+                }
+            },
+            {
+                "name": "talis/bling",
+                "version": "0.1.4",
+                "version_normalized": "0.1.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:techfromsage/bling.git",
+                    "reference": "5cf3711bfe4f3a3a34d3ee95d809d7f3a6595609"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bling/zipball/5cf3711bfe4f3a3a34d3ee95d809d7f3a6595609",
+                    "reference": "5cf3711bfe4f3a3a34d3ee95d809d7f3a6595609",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzle/guzzle": ">=3.8@stable",
+                    "monolog/monolog": ">=1.5.0@stable",
+                    "php": ">=5.3.0",
+                    "phpunit/phpunit": ">=3.7.0@stable"
+                },
+                "time": "2014-03-26T07:29:06+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "bling\\": "src/bling"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Andrew Bate",
+                        "email": "ab@talis.com",
+                        "homepage": "http://www.talis.com"
+                    }
+                ],
+                "description": "Integration with the British Library scanning service",
+                "homepage": "http://github.com/talis/bling",
+                "support": {
+                    "source": "https://github.com/techfromsage/bling/tree/0.1.4",
+                    "issues": "https://github.com/techfromsage/bling/issues"
+                }
+            },
+            {
+                "name": "talis/bling",
+                "version": "0.1.5",
+                "version_normalized": "0.1.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:techfromsage/bling.git",
+                    "reference": "080287d8ec98bf4cb01c1e24876a676917b63319"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bling/zipball/080287d8ec98bf4cb01c1e24876a676917b63319",
+                    "reference": "080287d8ec98bf4cb01c1e24876a676917b63319",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzle/guzzle": ">=3.8@stable",
+                    "monolog/monolog": ">=1.5.0@stable",
+                    "php": ">=5.3.0",
+                    "phpunit/phpunit": ">=3.7.0@stable"
+                },
+                "time": "2014-04-02T10:26:42+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "bling\\": "src/bling"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Andrew Bate",
+                        "email": "ab@talis.com",
+                        "homepage": "http://www.talis.com"
+                    }
+                ],
+                "description": "PHP library for integrating with the British Library Document Supply Service (BLDSS)",
+                "homepage": "http://github.com/talis/bling",
+                "support": {
+                    "source": "https://github.com/techfromsage/bling/tree/0.1.5",
+                    "issues": "https://github.com/techfromsage/bling/issues"
+                }
+            },
+            {
+                "name": "talis/bling",
+                "version": "0.1.6",
+                "version_normalized": "0.1.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:techfromsage/bling.git",
+                    "reference": "7b042ba8a8ff6dbce0a02d5cdfb7e96a154a2385"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bling/zipball/7b042ba8a8ff6dbce0a02d5cdfb7e96a154a2385",
+                    "reference": "7b042ba8a8ff6dbce0a02d5cdfb7e96a154a2385",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzle/guzzle": ">=3.8@stable",
+                    "monolog/monolog": ">=1.5.0@stable",
+                    "php": ">=5.3.0",
+                    "phpunit/phpunit": ">=3.7.0@stable"
+                },
+                "time": "2014-04-07T07:51:29+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "bling\\": "src/bling"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Andrew Bate",
+                        "email": "ab@talis.com",
+                        "homepage": "http://www.talis.com"
+                    }
+                ],
+                "description": "PHP library for integrating with the British Library Document Supply Service (BLDSS)",
+                "homepage": "http://github.com/talis/bling",
+                "support": {
+                    "source": "https://github.com/techfromsage/bling/tree/0.1.6",
+                    "issues": "https://github.com/techfromsage/bling/issues"
+                }
+            },
+            {
+                "name": "talis/bling",
+                "version": "0.1.7",
+                "version_normalized": "0.1.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:techfromsage/bling.git",
+                    "reference": "9efd982d0543541dfd8b4c1f219964982e6e55bb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bling/zipball/9efd982d0543541dfd8b4c1f219964982e6e55bb",
+                    "reference": "9efd982d0543541dfd8b4c1f219964982e6e55bb",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzle/guzzle": ">=3.8@stable",
+                    "monolog/monolog": ">=1.5.0@stable",
+                    "php": ">=5.3.0",
+                    "phpunit/phpunit": ">=3.7.0@stable"
+                },
+                "time": "2014-04-14T10:37:11+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "bling\\": "src/bling"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Andrew Bate",
+                        "email": "ab@talis.com",
+                        "homepage": "http://www.talis.com"
+                    }
+                ],
+                "description": "PHP library for integrating with the British Library Document Supply Service (BLDSS)",
+                "homepage": "http://github.com/talis/bling",
+                "support": {
+                    "source": "https://github.com/techfromsage/bling/tree/0.1.7",
+                    "issues": "https://github.com/techfromsage/bling/issues"
+                }
+            },
+            {
+                "name": "talis/bling",
+                "version": "0.1.8",
+                "version_normalized": "0.1.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:techfromsage/bling.git",
+                    "reference": "4d181bea38bdcdbe5798d15779fdf45c37922f70"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bling/zipball/4d181bea38bdcdbe5798d15779fdf45c37922f70",
+                    "reference": "4d181bea38bdcdbe5798d15779fdf45c37922f70",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzle/guzzle": ">=3.8@stable",
+                    "monolog/monolog": ">=1.5.0@stable",
+                    "php": ">=5.3.0",
+                    "phpunit/phpunit": ">=3.7.0@stable"
+                },
+                "time": "2014-04-25T12:35:53+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "bling\\": "src/bling"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Andrew Bate",
+                        "email": "ab@talis.com",
+                        "homepage": "http://www.talis.com"
+                    }
+                ],
+                "description": "PHP library for integrating with the British Library Document Supply Service (BLDSS)",
+                "homepage": "http://github.com/talis/bling",
+                "support": {
+                    "source": "https://github.com/techfromsage/bling/tree/0.1.8",
+                    "issues": "https://github.com/techfromsage/bling/issues"
+                }
+            },
+            {
+                "name": "talis/bling",
+                "version": "0.1.9",
+                "version_normalized": "0.1.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:techfromsage/bling.git",
+                    "reference": "acf3ea51cc65c1c0bad2a54f8ecbc4516d0e2d01"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bling/zipball/acf3ea51cc65c1c0bad2a54f8ecbc4516d0e2d01",
+                    "reference": "acf3ea51cc65c1c0bad2a54f8ecbc4516d0e2d01",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzle/guzzle": ">=3.8@stable",
+                    "monolog/monolog": ">=1.5.0@stable",
+                    "php": ">=5.3.0",
+                    "phpunit/phpunit": ">=3.7.0@stable"
+                },
+                "time": "2014-04-29T14:09:50+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "bling\\": "src/bling"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Andrew Bate",
+                        "email": "ab@talis.com",
+                        "homepage": "http://www.talis.com"
+                    }
+                ],
+                "description": "PHP library for integrating with the British Library Document Supply Service (BLDSS)",
+                "homepage": "http://github.com/talis/bling",
+                "support": {
+                    "source": "https://github.com/techfromsage/bling/tree/0.1.9",
+                    "issues": "https://github.com/techfromsage/bling/issues"
+                }
+            },
+            {
+                "name": "talis/bling",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:techfromsage/bling.git",
+                    "reference": "526547cdf51fe658ceb2df1b623e56654ed54c6a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bling/zipball/526547cdf51fe658ceb2df1b623e56654ed54c6a",
+                    "reference": "526547cdf51fe658ceb2df1b623e56654ed54c6a",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzle/guzzle": ">=3.8@stable",
+                    "monolog/monolog": ">=1.5.0@stable",
+                    "php": ">=5.3.0",
+                    "phpunit/phpunit": ">=3.7.0@stable"
+                },
+                "time": "2014-10-31T16:35:25+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "bling\\": "src/bling"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Andrew Bate",
+                        "email": "ab@talis.com",
+                        "homepage": "http://www.talis.com"
+                    }
+                ],
+                "description": "PHP library for integrating with the British Library Document Supply Service (BLDSS)",
+                "homepage": "http://github.com/talis/bling",
+                "support": {
+                    "source": "https://github.com/techfromsage/bling/tree/0.2.0",
+                    "issues": "https://github.com/techfromsage/bling/issues"
+                }
+            },
+            {
+                "name": "talis/bling",
+                "version": "0.2.1",
+                "version_normalized": "0.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:techfromsage/bling.git",
+                    "reference": "00d58006ec3759c309a1f8800a1369c3e9ddede8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bling/zipball/00d58006ec3759c309a1f8800a1369c3e9ddede8",
+                    "reference": "00d58006ec3759c309a1f8800a1369c3e9ddede8",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzle/guzzle": ">=3.8@stable",
+                    "monolog/monolog": ">=1.5.0@stable",
+                    "php": ">=5.3.0",
+                    "phpunit/phpunit": ">=3.7.0@stable"
+                },
+                "time": "2014-11-19T19:48:18+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "bling\\": "src/bling"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Andrew Bate",
+                        "email": "ab@talis.com",
+                        "homepage": "http://www.talis.com"
+                    }
+                ],
+                "description": "PHP library for integrating with the British Library Document Supply Service (BLDSS)",
+                "homepage": "http://github.com/talis/bling",
+                "support": {
+                    "source": "https://github.com/techfromsage/bling/tree/0.2.1",
+                    "issues": "https://github.com/techfromsage/bling/issues"
+                }
+            },
+            {
+                "name": "talis/bling",
+                "version": "0.2.2",
+                "version_normalized": "0.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:techfromsage/bling.git",
+                    "reference": "b1944928458a2f5fdd9a06112e7a77333896cb30"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bling/zipball/b1944928458a2f5fdd9a06112e7a77333896cb30",
+                    "reference": "b1944928458a2f5fdd9a06112e7a77333896cb30",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzle/guzzle": ">=3.8@stable",
+                    "monolog/monolog": ">=1.5.0@stable",
+                    "php": ">=5.3.0",
+                    "phpunit/phpunit": ">=3.7.0@stable"
+                },
+                "time": "2015-01-29T16:39:01+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "bling\\": "src/bling"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Andrew Bate",
+                        "email": "ab@talis.com",
+                        "homepage": "http://www.talis.com"
+                    }
+                ],
+                "description": "PHP library for integrating with the British Library Document Supply Service (BLDSS)",
+                "homepage": "http://github.com/talis/bling",
+                "support": {
+                    "source": "https://github.com/techfromsage/bling/tree/0.2.2",
+                    "issues": "https://github.com/techfromsage/bling/issues"
+                }
+            },
+            {
+                "name": "talis/bling",
+                "version": "0.2.3",
+                "version_normalized": "0.2.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:techfromsage/bling.git",
+                    "reference": "dd581a966ad59db1e1badd4edb01141fbc638c53"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bling/zipball/dd581a966ad59db1e1badd4edb01141fbc638c53",
+                    "reference": "dd581a966ad59db1e1badd4edb01141fbc638c53",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzle/guzzle": ">=3.8@stable",
+                    "monolog/monolog": ">=1.5.0@stable",
+                    "php": ">=5.3.0",
+                    "phpunit/phpunit": ">=3.7.0@stable"
+                },
+                "time": "2015-02-02T10:24:14+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "bling\\": "src/bling"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Andrew Bate",
+                        "email": "ab@talis.com",
+                        "homepage": "http://www.talis.com"
+                    }
+                ],
+                "description": "PHP library for integrating with the British Library Document Supply Service (BLDSS)",
+                "homepage": "http://github.com/talis/bling",
+                "support": {
+                    "source": "https://github.com/techfromsage/bling/tree/0.2.3",
+                    "issues": "https://github.com/techfromsage/bling/issues"
+                }
+            },
+            {
+                "name": "talis/bling",
+                "version": "0.2.4",
+                "version_normalized": "0.2.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:techfromsage/bling.git",
+                    "reference": "99e29defd49a7543da56c368e0b0c27ce999a653"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bling/zipball/99e29defd49a7543da56c368e0b0c27ce999a653",
+                    "reference": "99e29defd49a7543da56c368e0b0c27ce999a653",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzle/guzzle": ">=3.8@stable",
+                    "monolog/monolog": ">=1.5.0@stable",
+                    "php": ">=5.3.0",
+                    "phpunit/phpunit": ">=3.7.0@stable"
+                },
+                "time": "2015-06-25T13:49:07+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "bling\\": "src/bling"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Andrew Bate",
+                        "email": "ab@talis.com",
+                        "homepage": "http://www.talis.com"
+                    }
+                ],
+                "description": "PHP library for integrating with the British Library Document Supply Service (BLDSS)",
+                "homepage": "http://github.com/talis/bling",
+                "support": {
+                    "source": "https://github.com/techfromsage/bling/tree/0.2.4",
+                    "issues": "https://github.com/techfromsage/bling/issues"
+                }
+            },
+            {
+                "name": "talis/bling",
+                "version": "0.2.5",
+                "version_normalized": "0.2.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:techfromsage/bling.git",
+                    "reference": "e57a4c48412cd5a0ca3d4c50d1c08d538fa53366"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bling/zipball/e57a4c48412cd5a0ca3d4c50d1c08d538fa53366",
+                    "reference": "e57a4c48412cd5a0ca3d4c50d1c08d538fa53366",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzle/guzzle": ">=3.8@stable",
+                    "monolog/monolog": ">=1.5.0@stable",
+                    "php": ">=5.3.0",
+                    "phpunit/phpunit": ">=3.7.0@stable"
+                },
+                "time": "2015-10-05T10:27:11+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "bling\\": "src/bling"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Andrew Bate",
+                        "email": "ab@talis.com",
+                        "homepage": "http://www.talis.com"
+                    }
+                ],
+                "description": "PHP library for integrating with the British Library Document Supply Service (BLDSS)",
+                "homepage": "http://github.com/talis/bling",
+                "support": {
+                    "source": "https://github.com/techfromsage/bling/tree/0.2.5",
+                    "issues": "https://github.com/techfromsage/bling/issues"
+                }
+            },
+            {
+                "name": "talis/bling",
+                "version": "0.2.6",
+                "version_normalized": "0.2.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:techfromsage/bling.git",
+                    "reference": "48b7c17a585e3408770baed13c82ddb438070c0d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bling/zipball/48b7c17a585e3408770baed13c82ddb438070c0d",
+                    "reference": "48b7c17a585e3408770baed13c82ddb438070c0d",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzle/guzzle": ">=3.8@stable",
+                    "monolog/monolog": ">=1.5.0@stable",
+                    "php": ">=5.3.0",
+                    "phpunit/phpunit": ">=3.7.0@stable"
+                },
+                "time": "2015-10-05T15:14:44+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "bling\\": "src/bling"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Andrew Bate",
+                        "email": "ab@talis.com",
+                        "homepage": "http://www.talis.com"
+                    }
+                ],
+                "description": "PHP library for integrating with the British Library Document Supply Service (BLDSS)",
+                "homepage": "http://github.com/talis/bling",
+                "support": {
+                    "source": "https://github.com/techfromsage/bling/tree/0.2.6",
+                    "issues": "https://github.com/techfromsage/bling/issues"
+                }
+            },
+            {
+                "name": "talis/bling",
+                "version": "v0.3.0",
+                "version_normalized": "0.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:techfromsage/bling.git",
+                    "reference": "f6908022314f2cac3e5b3bb3b75c7f2ce693b67a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bling/zipball/f6908022314f2cac3e5b3bb3b75c7f2ce693b67a",
+                    "reference": "f6908022314f2cac3e5b3bb3b75c7f2ce693b67a",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzle/guzzle": ">=3.8@stable",
+                    "monolog/monolog": ">=1.5.0@stable",
+                    "php": ">=5.3.0",
+                    "phpunit/phpunit": ">=3.7.0@stable",
+                    "talis/smart-quotes": "1.0.6"
+                },
+                "time": "2015-10-09T15:04:26+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "bling\\": "src/bling"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Andrew Bate",
+                        "email": "ab@talis.com",
+                        "homepage": "http://www.talis.com"
+                    }
+                ],
+                "description": "PHP library for integrating with the British Library Document Supply Service (BLDSS)",
+                "homepage": "http://github.com/talis/bling",
+                "support": {
+                    "source": "https://github.com/techfromsage/bling/tree/v0.3.0",
+                    "issues": "https://github.com/techfromsage/bling/issues"
+                }
+            },
+            {
+                "name": "talis/bling",
+                "version": "v0.3.1",
+                "version_normalized": "0.3.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:techfromsage/bling.git",
+                    "reference": "100e09ec9762d491136ac2146c77983d2a938b03"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bling/zipball/100e09ec9762d491136ac2146c77983d2a938b03",
+                    "reference": "100e09ec9762d491136ac2146c77983d2a938b03",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzle/guzzle": ">=3.8@stable",
+                    "monolog/monolog": ">=1.5.0@stable",
+                    "php": ">=5.3.0",
+                    "phpunit/phpunit": ">=3.7.0@stable",
+                    "talis/smart-quotes": "1.0.6"
+                },
+                "time": "2015-10-13T14:49:51+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "bling\\": "src/bling"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Andrew Bate",
+                        "email": "ab@talis.com",
+                        "homepage": "http://www.talis.com"
+                    }
+                ],
+                "description": "PHP library for integrating with the British Library Document Supply Service (BLDSS)",
+                "homepage": "http://github.com/talis/bling",
+                "support": {
+                    "source": "https://github.com/techfromsage/bling/tree/v0.3.1",
+                    "issues": "https://github.com/techfromsage/bling/issues"
+                }
+            },
+            {
+                "name": "talis/bling",
+                "version": "v0.3.2",
+                "version_normalized": "0.3.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:techfromsage/bling.git",
+                    "reference": "ab881d1f89b750bd0ef2c4c2893054f363bccd93"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bling/zipball/ab881d1f89b750bd0ef2c4c2893054f363bccd93",
+                    "reference": "ab881d1f89b750bd0ef2c4c2893054f363bccd93",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzle/guzzle": ">=3.8@stable",
+                    "monolog/monolog": ">=1.5.0@stable",
+                    "php": ">=5.3.0",
+                    "phpunit/phpunit": ">=3.7.0@stable",
+                    "talis/smart-quotes": "1.0.6"
+                },
+                "time": "2015-10-16T13:41:37+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "bling\\": "src/bling"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Andrew Bate",
+                        "email": "ab@talis.com",
+                        "homepage": "http://www.talis.com"
+                    }
+                ],
+                "description": "PHP library for integrating with the British Library Document Supply Service (BLDSS)",
+                "homepage": "http://github.com/talis/bling",
+                "support": {
+                    "source": "https://github.com/techfromsage/bling/tree/v0.3.2",
+                    "issues": "https://github.com/techfromsage/bling/issues"
+                }
+            },
+            {
+                "name": "talis/bling",
+                "version": "v0.3.3",
+                "version_normalized": "0.3.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:techfromsage/bling.git",
+                    "reference": "5bb8c234cf155ca65729853a0e80f3c8d9e818c8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bling/zipball/5bb8c234cf155ca65729853a0e80f3c8d9e818c8",
+                    "reference": "5bb8c234cf155ca65729853a0e80f3c8d9e818c8",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzle/guzzle": ">=3.8@stable",
+                    "monolog/monolog": ">=1.5.0@stable",
+                    "patchwork/utf8": "1.2.5",
+                    "php": ">=5.3.0",
+                    "phpunit/phpunit": ">=3.7.0@stable"
+                },
+                "time": "2015-10-20T14:57:51+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "bling\\": "src/bling"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Andrew Bate",
+                        "email": "ab@talis.com",
+                        "homepage": "http://www.talis.com"
+                    }
+                ],
+                "description": "PHP library for integrating with the British Library Document Supply Service (BLDSS)",
+                "homepage": "http://github.com/talis/bling",
+                "support": {
+                    "source": "https://github.com/techfromsage/bling/tree/v0.3.3",
+                    "issues": "https://github.com/techfromsage/bling/issues"
+                }
+            },
+            {
+                "name": "talis/bling",
+                "version": "v0.3.4",
+                "version_normalized": "0.3.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:techfromsage/bling.git",
+                    "reference": "215835203e8b1728fb0713286811ed4049159b3a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bling/zipball/215835203e8b1728fb0713286811ed4049159b3a",
+                    "reference": "215835203e8b1728fb0713286811ed4049159b3a",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzle/guzzle": ">=3.8@stable",
+                    "monolog/monolog": ">=1.5.0@stable",
+                    "patchwork/utf8": "1.2.5",
+                    "php": ">=5.3.0",
+                    "phpunit/phpunit": ">=3.7.0@stable"
+                },
+                "time": "2015-10-26T13:14:15+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "bling\\": "src/bling"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Andrew Bate",
+                        "email": "ab@talis.com",
+                        "homepage": "http://www.talis.com"
+                    }
+                ],
+                "description": "PHP library for integrating with the British Library Document Supply Service (BLDSS)",
+                "homepage": "http://github.com/talis/bling",
+                "support": {
+                    "source": "https://github.com/techfromsage/bling/tree/v0.3.4",
+                    "issues": "https://github.com/techfromsage/bling/issues"
+                }
+            },
+            {
+                "name": "talis/bling",
+                "version": "v0.3.5",
+                "version_normalized": "0.3.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:techfromsage/bling.git",
+                    "reference": "dfe26a0e3b2dda3596b3369ff041f836d215efde"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bling/zipball/dfe26a0e3b2dda3596b3369ff041f836d215efde",
+                    "reference": "dfe26a0e3b2dda3596b3369ff041f836d215efde",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzle/guzzle": ">=3.8@stable",
+                    "monolog/monolog": ">=1.5.0@stable",
+                    "patchwork/utf8": "1.2.5",
+                    "php": ">=5.3.0",
+                    "phpunit/phpunit": ">=3.7.0@stable"
+                },
+                "time": "2015-11-09T16:45:48+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "bling\\": "src/bling"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Andrew Bate",
+                        "email": "ab@talis.com",
+                        "homepage": "http://www.talis.com"
+                    }
+                ],
+                "description": "PHP library for integrating with the British Library Document Supply Service (BLDSS)",
+                "homepage": "http://github.com/talis/bling",
+                "support": {
+                    "source": "https://github.com/techfromsage/bling/tree/v0.3.5",
+                    "issues": "https://github.com/techfromsage/bling/issues"
+                }
+            },
+            {
+                "name": "talis/bling",
+                "version": "v0.3.6",
+                "version_normalized": "0.3.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:techfromsage/bling.git",
+                    "reference": "b4bb6cdafdbf0f3d84acd172977e17e930540752"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bling/zipball/b4bb6cdafdbf0f3d84acd172977e17e930540752",
+                    "reference": "b4bb6cdafdbf0f3d84acd172977e17e930540752",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzle/guzzle": ">=3.8@stable",
+                    "monolog/monolog": ">=1.5.0@stable",
+                    "patchwork/utf8": "1.2.5",
+                    "php": ">=5.3.0",
+                    "phpunit/phpunit": ">=3.7.0@stable"
+                },
+                "time": "2018-02-19T14:06:33+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "bling\\": "src/bling"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Andrew Bate",
+                        "email": "ab@talis.com",
+                        "homepage": "http://www.talis.com"
+                    }
+                ],
+                "description": "PHP library for integrating with the British Library Document Supply Service (BLDSS)",
+                "homepage": "http://github.com/talis/bling",
+                "support": {
+                    "source": "https://github.com/techfromsage/bling/tree/v0.3.6",
+                    "issues": "https://github.com/techfromsage/bling/issues"
+                }
+            },
+            {
+                "name": "talis/bling",
+                "version": "0.3.7",
+                "version_normalized": "0.3.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:techfromsage/bling.git",
+                    "reference": "64e99a27a71b92c04ef00ba8e1d1877417714067"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bling/zipball/64e99a27a71b92c04ef00ba8e1d1877417714067",
+                    "reference": "64e99a27a71b92c04ef00ba8e1d1877417714067",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzle/guzzle": ">=3.8@stable",
+                    "monolog/monolog": ">=1.5.0@stable",
+                    "patchwork/utf8": "1.2.5",
+                    "php": ">=5.3.0",
+                    "phpunit/phpunit": ">=3.7.0@stable"
+                },
+                "time": "2018-02-19T18:40:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "bling\\": "src/bling"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Andrew Bate",
+                        "email": "ab@talis.com",
+                        "homepage": "http://www.talis.com"
+                    }
+                ],
+                "description": "PHP library for integrating with the British Library Document Supply Service (BLDSS)",
+                "homepage": "http://github.com/talis/bling",
+                "support": {
+                    "source": "https://github.com/techfromsage/bling/tree/0.3.7",
+                    "issues": "https://github.com/techfromsage/bling/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "packages": {
+        "talis/sruclient-php": [
+            {
+                "name": "talis/sruclient-php",
+                "version": "dev-handle_bad_recorddata",
+                "version_normalized": "dev-handle_bad_recorddata",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/SRUClient-php.git",
+                    "reference": "6c37cc6c41174df80b9d0e48e6c3b233a197ef35"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/SRUClient-php/zipball/6c37cc6c41174df80b9d0e48e6c3b233a197ef35",
+                    "reference": "6c37cc6c41174df80b9d0e48e6c3b233a197ef35",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzle/guzzle": "~3.7",
+                    "monolog/monolog": ">=1.5.0",
+                    "php": ">=5.4.0"
+                },
+                "require-dev": {
+                    "pear/file_marc": "1.1.2",
+                    "phpunit/phpunit": "4.8.36",
+                    "squizlabs/php_codesniffer": "3.*"
+                },
+                "time": "2018-08-02T19:28:09+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "SRU": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Ross Singer",
+                        "email": "rxs@talis.com",
+                        "homepage": "http://engineering.talis.com"
+                    }
+                ],
+                "description": "This is a php client library for SRU (http://www.loc.gov/standards/sru/)",
+                "homepage": "https://github.com/talis/SRUclient-php",
+                "keywords": [
+                    "client library",
+                    "php",
+                    "sru"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/SRUClient-php/tree/handle_bad_recorddata",
+                    "issues": "https://github.com/techfromsage/SRUClient-php/issues"
+                }
+            },
+            {
+                "name": "talis/sruclient-php",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/SRUClient-php.git",
+                    "reference": "ab1526270c0144d4c26c7fc7cc6cc0979de6f53b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/SRUClient-php/zipball/ab1526270c0144d4c26c7fc7cc6cc0979de6f53b",
+                    "reference": "ab1526270c0144d4c26c7fc7cc6cc0979de6f53b",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^6.5.8 || ^7.4.5",
+                    "php": ">=7.3"
+                },
+                "require-dev": {
+                    "pear/file_marc": "1.1.2",
+                    "phpunit/phpunit": "^8.5.38",
+                    "squizlabs/php_codesniffer": "3.*"
+                },
+                "time": "2024-05-15T09:10:27+00:00",
+                "default-branch": true,
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "SRU\\": "src/SRU/"
+                    }
+                },
+                "scripts": {
+                    "lint": [
+                        "phpcs --standard=PSR2 src"
+                    ],
+                    "test": [
+                        "phpunit"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Ross Singer",
+                        "email": "rxs@talis.com",
+                        "homepage": "http://engineering.talis.com"
+                    }
+                ],
+                "description": "This is a php client library for SRU (http://www.loc.gov/standards/sru/)",
+                "homepage": "https://github.com/talis/SRUclient-php",
+                "keywords": [
+                    "client library",
+                    "php",
+                    "sru"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/SRUClient-php/tree/0.4.0",
+                    "issues": "https://github.com/techfromsage/SRUClient-php/issues"
+                }
+            }
+        ]
+    }
+}

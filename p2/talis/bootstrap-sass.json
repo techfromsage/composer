@@ -1,0 +1,2229 @@
+{
+    "packages": {
+        "talis/bootstrap-sass": [
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.1.0+2",
+                "version_normalized": "3.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "4f8c3465477a2e27a7197ac9493817d4c101b867"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/4f8c3465477a2e27a7197ac9493817d4c101b867",
+                    "reference": "4f8c3465477a2e27a7197ac9493817d4c101b867",
+                    "shasum": ""
+                },
+                "time": "2014-02-06T00:25:06+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.1.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/twbs/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/twbs/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.1.0+2"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.1.1+2",
+                "version_normalized": "3.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "0d25afc31914c4d31a3129b1b1bc3d8fc254824b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/0d25afc31914c4d31a3129b1b1bc3d8fc254824b",
+                    "reference": "0d25afc31914c4d31a3129b1b1bc3d8fc254824b",
+                    "shasum": ""
+                },
+                "time": "2014-04-21T21:29:53+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.1.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/twbs/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/twbs/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.1.1+2"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.10.0",
+                "version_normalized": "3.10.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "1571128237fdcddc189ece30f172fb37779d3482"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/1571128237fdcddc189ece30f172fb37779d3482",
+                    "reference": "1571128237fdcddc189ece30f172fb37779d3482",
+                    "shasum": ""
+                },
+                "time": "2022-01-18T16:18:43+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.4.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/talis/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/talis/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.10.0"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.11.0",
+                "version_normalized": "3.11.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "02c918c91cd0e1a19435c05dd55c877084eb6352"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/02c918c91cd0e1a19435c05dd55c877084eb6352",
+                    "reference": "02c918c91cd0e1a19435c05dd55c877084eb6352",
+                    "shasum": ""
+                },
+                "time": "2022-03-25T13:09:45+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.4.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/talis/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/talis/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.11.0"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.12.0",
+                "version_normalized": "3.12.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "17ff545a6237ecd2bb119fe80dd2158498b09eea"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/17ff545a6237ecd2bb119fe80dd2158498b09eea",
+                    "reference": "17ff545a6237ecd2bb119fe80dd2158498b09eea",
+                    "shasum": ""
+                },
+                "time": "2024-08-15T12:12:25+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.4.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/talis/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/talis/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.12.0"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.13.0",
+                "version_normalized": "3.13.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "5283938a80e943429afa9b209e41eeb1aee48e5f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/5283938a80e943429afa9b209e41eeb1aee48e5f",
+                    "reference": "5283938a80e943429afa9b209e41eeb1aee48e5f",
+                    "shasum": ""
+                },
+                "time": "2024-09-12T15:09:57+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.4.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/talis/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/talis/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.13.0"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.2.0+2",
+                "version_normalized": "3.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "881ce27c6b4101698ea849283933203e20861a33"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/881ce27c6b4101698ea849283933203e20861a33",
+                    "reference": "881ce27c6b4101698ea849283933203e20861a33",
+                    "shasum": ""
+                },
+                "time": "2014-09-03T02:13:36+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.2.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/twbs/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/twbs/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.2.0+2"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.3.0",
+                "version_normalized": "3.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "d07374afdbe86e6a415c5ea68474b3d142e8fd72"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/d07374afdbe86e6a415c5ea68474b3d142e8fd72",
+                    "reference": "d07374afdbe86e6a415c5ea68474b3d142e8fd72",
+                    "shasum": ""
+                },
+                "time": "2014-10-29T23:25:58+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.3.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/twbs/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/twbs/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.3.0"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.3.1",
+                "version_normalized": "3.3.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "93f42bc913bdd4c9df3d4652bd5168b4ede870c6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/93f42bc913bdd4c9df3d4652bd5168b4ede870c6",
+                    "reference": "93f42bc913bdd4c9df3d4652bd5168b4ede870c6",
+                    "shasum": ""
+                },
+                "time": "2014-11-12T17:19:30+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.3.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/twbs/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/twbs/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.3.1"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.3.2+1",
+                "version_normalized": "3.3.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "a477f37b57edec1665d996122abe31424b3b1841"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/a477f37b57edec1665d996122abe31424b3b1841",
+                    "reference": "a477f37b57edec1665d996122abe31424b3b1841",
+                    "shasum": ""
+                },
+                "time": "2015-01-19T23:45:41+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.3.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/twbs/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/twbs/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.3.2+1"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.3.3",
+                "version_normalized": "3.3.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "107ca189e406bbe314eb84f0372ed3706b81c761"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/107ca189e406bbe314eb84f0372ed3706b81c761",
+                    "reference": "107ca189e406bbe314eb84f0372ed3706b81c761",
+                    "shasum": ""
+                },
+                "time": "2015-01-20T00:56:26+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.3.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/twbs/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/twbs/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.3.3"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.3.4",
+                "version_normalized": "3.3.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "1a5c521451d18e72ca57dea2af870ab552f4b42a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/1a5c521451d18e72ca57dea2af870ab552f4b42a",
+                    "reference": "1a5c521451d18e72ca57dea2af870ab552f4b42a",
+                    "shasum": ""
+                },
+                "time": "2015-03-16T16:23:24+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.3.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/twbs/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/twbs/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.3.4"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.3.5",
+                "version_normalized": "3.3.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "d64d48fd23c9624cc5c996e6516b7dc33fde5919"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/d64d48fd23c9624cc5c996e6516b7dc33fde5919",
+                    "reference": "d64d48fd23c9624cc5c996e6516b7dc33fde5919",
+                    "shasum": ""
+                },
+                "time": "2015-06-16T16:29:50+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.3.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/twbs/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/twbs/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.3.5"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.3.6",
+                "version_normalized": "3.3.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "446b41a5af0f20f139a6d33ded2a62101c3bd5a1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/446b41a5af0f20f139a6d33ded2a62101c3bd5a1",
+                    "reference": "446b41a5af0f20f139a6d33ded2a62101c3bd5a1",
+                    "shasum": ""
+                },
+                "time": "2015-11-24T23:06:35+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.3.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/twbs/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/twbs/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.3.6"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.3.7",
+                "version_normalized": "3.3.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "5d6b2ebba0c2a5885ce2f0e01e9218db3d3b5e47"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/5d6b2ebba0c2a5885ce2f0e01e9218db3d3b5e47",
+                    "reference": "5d6b2ebba0c2a5885ce2f0e01e9218db3d3b5e47",
+                    "shasum": ""
+                },
+                "time": "2016-07-25T19:58:53+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.3.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/twbs/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/twbs/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.3.7"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.4.0",
+                "version_normalized": "3.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "bb7dbf8af72b455b51936bc07e51efcaf6220bcc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/bb7dbf8af72b455b51936bc07e51efcaf6220bcc",
+                    "reference": "bb7dbf8af72b455b51936bc07e51efcaf6220bcc",
+                    "shasum": ""
+                },
+                "time": "2018-12-14T12:16:04+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.4.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/twbs/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/twbs/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.4.0"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.4.1",
+                "version_normalized": "3.4.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "ff8d0ed39811da01161da931b25459c3d48af015"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/ff8d0ed39811da01161da931b25459c3d48af015",
+                    "reference": "ff8d0ed39811da01161da931b25459c3d48af015",
+                    "shasum": ""
+                },
+                "time": "2020-08-21T17:37:46+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.4.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/talis/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/talis/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.4.1"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.4.2",
+                "version_normalized": "3.4.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "be14e177c501aff0b02f14abfb426ce9cb653c1f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/be14e177c501aff0b02f14abfb426ce9cb653c1f",
+                    "reference": "be14e177c501aff0b02f14abfb426ce9cb653c1f",
+                    "shasum": ""
+                },
+                "time": "2020-09-08T12:35:30+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.4.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/talis/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/talis/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.4.2"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.5.0",
+                "version_normalized": "3.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "60f3a41712c77b12cc513912578ebecff7fd1b6d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/60f3a41712c77b12cc513912578ebecff7fd1b6d",
+                    "reference": "60f3a41712c77b12cc513912578ebecff7fd1b6d",
+                    "shasum": ""
+                },
+                "time": "2020-09-14T12:54:14+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.4.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/talis/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/talis/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.5.0"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.5.1",
+                "version_normalized": "3.5.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "966021f07f437afaa32ddfb6307e4d3d7fbaa37b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/966021f07f437afaa32ddfb6307e4d3d7fbaa37b",
+                    "reference": "966021f07f437afaa32ddfb6307e4d3d7fbaa37b",
+                    "shasum": ""
+                },
+                "time": "2020-09-17T13:19:09+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.4.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/talis/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/talis/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.5.1"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.6.0",
+                "version_normalized": "3.6.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "3a09d5c9b5a09e676fe34ab827c108f4c89a27bb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/3a09d5c9b5a09e676fe34ab827c108f4c89a27bb",
+                    "reference": "3a09d5c9b5a09e676fe34ab827c108f4c89a27bb",
+                    "shasum": ""
+                },
+                "time": "2020-09-20T15:43:34+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.4.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/talis/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/talis/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.6.0"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.6.1",
+                "version_normalized": "3.6.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "118af08d1b4e1b8c1af86c581e0b4f535fb03fef"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/118af08d1b4e1b8c1af86c581e0b4f535fb03fef",
+                    "reference": "118af08d1b4e1b8c1af86c581e0b4f535fb03fef",
+                    "shasum": ""
+                },
+                "time": "2020-09-21T16:25:55+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.4.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/talis/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/talis/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.6.1"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.7.0",
+                "version_normalized": "3.7.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "c484a2ba10ae7d4d162765ee81b672664072e9e2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/c484a2ba10ae7d4d162765ee81b672664072e9e2",
+                    "reference": "c484a2ba10ae7d4d162765ee81b672664072e9e2",
+                    "shasum": ""
+                },
+                "time": "2020-09-21T20:45:32+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.4.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/talis/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/talis/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.7.0"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.7.1",
+                "version_normalized": "3.7.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "082d94b5564cbdcaced2f884a4c414e141d8b880"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/082d94b5564cbdcaced2f884a4c414e141d8b880",
+                    "reference": "082d94b5564cbdcaced2f884a4c414e141d8b880",
+                    "shasum": ""
+                },
+                "time": "2020-09-25T09:44:53+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.4.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/talis/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/talis/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.7.1"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.7.10",
+                "version_normalized": "3.7.10.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "2ad1a53b84cd77e6eb2078516d75ea97195cf5ba"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/2ad1a53b84cd77e6eb2078516d75ea97195cf5ba",
+                    "reference": "2ad1a53b84cd77e6eb2078516d75ea97195cf5ba",
+                    "shasum": ""
+                },
+                "time": "2021-05-24T15:12:58+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.4.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/talis/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/talis/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.7.10"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.7.11",
+                "version_normalized": "3.7.11.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "bb0e4c876453c39442986949142c7703d30e0a33"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/bb0e4c876453c39442986949142c7703d30e0a33",
+                    "reference": "bb0e4c876453c39442986949142c7703d30e0a33",
+                    "shasum": ""
+                },
+                "time": "2021-06-11T09:25:12+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.4.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/talis/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/talis/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.7.11"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.7.12",
+                "version_normalized": "3.7.12.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "f45dd6409caf13bae0c4bd73f3fa8a45457a56ce"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/f45dd6409caf13bae0c4bd73f3fa8a45457a56ce",
+                    "reference": "f45dd6409caf13bae0c4bd73f3fa8a45457a56ce",
+                    "shasum": ""
+                },
+                "time": "2021-07-02T11:53:39+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.4.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/talis/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/talis/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.7.12"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.7.13",
+                "version_normalized": "3.7.13.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "178a16737a1bb1400c9ff0d80a313f64c1b12c8d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/178a16737a1bb1400c9ff0d80a313f64c1b12c8d",
+                    "reference": "178a16737a1bb1400c9ff0d80a313f64c1b12c8d",
+                    "shasum": ""
+                },
+                "time": "2021-08-05T13:51:26+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.4.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/talis/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/talis/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.7.13"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.7.2",
+                "version_normalized": "3.7.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "d98769f93ded5871f63aabf3b3fc530f6dfedba4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/d98769f93ded5871f63aabf3b3fc530f6dfedba4",
+                    "reference": "d98769f93ded5871f63aabf3b3fc530f6dfedba4",
+                    "shasum": ""
+                },
+                "time": "2020-09-25T12:17:08+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.4.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/talis/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/talis/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.7.2"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.7.3",
+                "version_normalized": "3.7.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "162dc99eefac2f1188706be822c8dcfad3e1d290"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/162dc99eefac2f1188706be822c8dcfad3e1d290",
+                    "reference": "162dc99eefac2f1188706be822c8dcfad3e1d290",
+                    "shasum": ""
+                },
+                "time": "2020-10-05T15:39:31+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.4.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/talis/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/talis/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.7.3"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.7.4",
+                "version_normalized": "3.7.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "fd006ec90a2ae010b598694244197177f49766df"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/fd006ec90a2ae010b598694244197177f49766df",
+                    "reference": "fd006ec90a2ae010b598694244197177f49766df",
+                    "shasum": ""
+                },
+                "time": "2020-10-06T11:51:57+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.4.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/talis/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/talis/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.7.4"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.7.5",
+                "version_normalized": "3.7.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "69e9c85f300c3e7d945a59cc4b7c7b9af1f3b9b9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/69e9c85f300c3e7d945a59cc4b7c7b9af1f3b9b9",
+                    "reference": "69e9c85f300c3e7d945a59cc4b7c7b9af1f3b9b9",
+                    "shasum": ""
+                },
+                "time": "2020-10-06T12:43:44+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.4.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/talis/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/talis/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.7.5"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.7.6",
+                "version_normalized": "3.7.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "14069a1e901936210e614c82f14796f73ee57b01"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/14069a1e901936210e614c82f14796f73ee57b01",
+                    "reference": "14069a1e901936210e614c82f14796f73ee57b01",
+                    "shasum": ""
+                },
+                "time": "2020-10-07T22:23:28+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.4.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/talis/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/talis/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.7.6"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.7.7",
+                "version_normalized": "3.7.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "275d35d29c89e19f8a4824ccc467dadabfee6fdc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/275d35d29c89e19f8a4824ccc467dadabfee6fdc",
+                    "reference": "275d35d29c89e19f8a4824ccc467dadabfee6fdc",
+                    "shasum": ""
+                },
+                "time": "2020-10-12T12:25:18+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.4.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/talis/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/talis/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.7.7"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.7.8",
+                "version_normalized": "3.7.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "fa0a89ae50864116d83b399346f19f8e28beb62c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/fa0a89ae50864116d83b399346f19f8e28beb62c",
+                    "reference": "fa0a89ae50864116d83b399346f19f8e28beb62c",
+                    "shasum": ""
+                },
+                "time": "2020-10-16T16:21:14+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.4.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/talis/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/talis/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.7.8"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.7.9",
+                "version_normalized": "3.7.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "6b35de8e50c0a3d9588e09575672d350271daca4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/6b35de8e50c0a3d9588e09575672d350271daca4",
+                    "reference": "6b35de8e50c0a3d9588e09575672d350271daca4",
+                    "shasum": ""
+                },
+                "time": "2021-01-18T11:34:17+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.4.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/talis/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/talis/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.7.9"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.8.0",
+                "version_normalized": "3.8.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "416a3e4d300ed4c02079e25c683d7ff66b1c34a6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/416a3e4d300ed4c02079e25c683d7ff66b1c34a6",
+                    "reference": "416a3e4d300ed4c02079e25c683d7ff66b1c34a6",
+                    "shasum": ""
+                },
+                "time": "2021-10-06T11:11:31+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.4.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/talis/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/talis/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.8.0"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.9.0",
+                "version_normalized": "3.9.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "25e4ac78f796afaf1802d62210c8d5975b36b86e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/25e4ac78f796afaf1802d62210c8d5975b36b86e",
+                    "reference": "25e4ac78f796afaf1802d62210c8d5975b36b86e",
+                    "shasum": ""
+                },
+                "time": "2021-10-07T19:19:27+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.4.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/talis/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/talis/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.9.0"
+                }
+            },
+            {
+                "name": "talis/bootstrap-sass",
+                "version": "v3.9.1",
+                "version_normalized": "3.9.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/bootstrap-sass.git",
+                    "reference": "a7d67a20d371e9b7ce271044c2654895855da155"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/bootstrap-sass/zipball/a7d67a20d371e9b7ce271044c2654895855da155",
+                    "reference": "a7d67a20d371e9b7ce271044c2654895855da155",
+                    "shasum": ""
+                },
+                "time": "2021-10-08T08:15:43+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.4.x-dev"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas McDonald"
+                    },
+                    {
+                        "name": "Tristan Harward"
+                    },
+                    {
+                        "name": "Peter Gumeson"
+                    },
+                    {
+                        "name": "Gleb Mazovetskiy"
+                    },
+                    {
+                        "name": "Mark Otto"
+                    },
+                    {
+                        "name": "Jacob Thornton"
+                    }
+                ],
+                "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+                "homepage": "http://github.com/talis/bootstrap-sass",
+                "keywords": [
+                    "bootstrap",
+                    "css",
+                    "sass"
+                ],
+                "support": {
+                    "issues": "https://github.com/talis/bootstrap-sass/issues",
+                    "source": "https://github.com/techfromsage/bootstrap-sass/tree/v3.9.1"
+                }
+            }
+        ]
+    }
+}
