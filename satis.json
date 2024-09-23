@@ -1,6 +1,6 @@
 {
-    "name": "talis/composer",
-    "description": "Talis Composer repository",
+    "name": "techfromsage/composer",
+    "description": "TfS Composer repository",
     "homepage": "https://composer.talis.io/",
     "abandoned": {
         "chrisboulton/php-resque": "resque/php-resque",
@@ -124,5 +124,5 @@
     "require-all": true,
     "require-dependencies": true,
     "require-dev-dependencies": false,
-    "twig-template": "talis-theme/index.html.twig"
+    "twig-template": "tfs-theme/index.html.twig"
 }
