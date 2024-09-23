@@ -4,8 +4,8 @@
     "homepage": "https://composer.talis.io/",
     "abandoned": {
         "chrisboulton/php-resque": "resque/php-resque",
-        "talis/php-resque": "resque/php-resque",
-        "talis/simplesamlphp": "simplesamlphp/simplesamlphp"
+        "techfromsage/php-resque": "resque/php-resque",
+        "techfromsage/simplesamlphp": "simplesamlphp/simplesamlphp"
     },
     "repositories": [
         {
@@ -50,75 +50,75 @@
         },
         {
             "type": "vcs",
-            "url": "https://github.com/talis/bling"
+            "url": "https://github.com/techfromsage/bling"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/talis/bootstrap-sass"
+            "url": "https://github.com/techfromsage/bootstrap-sass"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/talis/conneg"
+            "url": "https://github.com/techfromsage/conneg"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/talis/f3"
+            "url": "https://github.com/techfromsage/f3"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/talis/fatfree"
+            "url": "https://github.com/techfromsage/fatfree"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/talis/LTI1x-php"
+            "url": "https://github.com/techfromsage/LTI1x-php"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/talis/lti-1-3-php-library"
+            "url": "https://github.com/techfromsage/lti-1-3-php-library"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/talis/php-niso-openurl"
+            "url": "https://github.com/techfromsage/php-niso-openurl"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/talis/php-resque"
+            "url": "https://github.com/techfromsage/php-resque"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/talis/resque-multiple-failure-queues"
+            "url": "https://github.com/techfromsage/resque-multiple-failure-queues"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/talis/selenium-server-standalone"
+            "url": "https://github.com/techfromsage/selenium-server-standalone"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/talis/sierra-api-php-client"
+            "url": "https://github.com/techfromsage/sierra-api-php-client"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/talis/simplesamlphp"
+            "url": "https://github.com/techfromsage/simplesamlphp"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/talis/SRUClient-php"
+            "url": "https://github.com/techfromsage/SRUClient-php"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/talis/talis-php"
+            "url": "https://github.com/techfromsage/talis-php"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/talis/tripod-php"
+            "url": "https://github.com/techfromsage/tripod-php"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/talis/php-cloud-files"
+            "url": "https://github.com/techfromsage/php-cloud-files"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/talis/aws-sdk-php"
+            "url": "https://github.com/techfromsage/aws-sdk-php"
         }
     ],
     "require-all": true,
