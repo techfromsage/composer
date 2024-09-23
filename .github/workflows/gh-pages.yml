@@ -3,17 +3,19 @@ name: Publish to GitHub pages
 on:
   push:
     branches: [main]
+  pull_request:
+    branches: [main]
   workflow_dispatch:
 
 jobs:
   build:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-24.04
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
       - name: Composer cache
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         with:
           path: ~/.composer/cache/repo
           key: composer-cache
@@ -37,8 +39,8 @@ jobs:
         run: echo 'composer.talis.io' > dist/CNAME
 
       - name: Deploy to GitHub Pages
-        if: success()
-        uses: crazy-max/ghaction-github-pages@v2
+        if: ${{ success() && github.event_name == 'push' && github.ref == 'refs/heads/main' }}
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: gh-pages
           build_dir: dist
