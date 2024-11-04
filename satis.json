@@ -13,10 +13,6 @@
         },
         {
             "type": "vcs",
-            "url": "https://github.com/techfromsage/bling"
-        },
-        {
-            "type": "vcs",
             "url": "https://github.com/techfromsage/bootstrap-sass"
         },
         {
