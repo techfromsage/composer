@@ -39,7 +39,7 @@ jobs:
         run: echo 'composer.talis.io' > dist/CNAME
 
       - name: Deploy to GitHub Pages
-        if: ${{ success() && github.event_name == 'push' && github.ref == 'refs/heads/main' }}
+        if: ${{ success() && github.ref == 'refs/heads/main' }}
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: gh-pages
