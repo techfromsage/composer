@@ -1,0 +1,675 @@
+{
+    "packages": {
+        "talis/lti-1p3-php-library": [
+            {
+                "name": "talis/lti-1p3-php-library",
+                "version": "dev-PLT-861-migrate-from-standalone-docker-compose",
+                "version_normalized": "dev-PLT-861-migrate-from-standalone-docker-compose",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/lti-1-3-php-library.git",
+                    "reference": "b3b635b99694a127812dbbdb72e41d53f65dbbd1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/lti-1-3-php-library/zipball/b3b635b99694a127812dbbdb72e41d53f65dbbd1",
+                    "reference": "b3b635b99694a127812dbbdb72e41d53f65dbbd1",
+                    "shasum": ""
+                },
+                "require": {
+                    "fproject/php-jwt": "^4.0",
+                    "paragonie/random_compat": "~1.0|~2.0|~9.99",
+                    "php": ">=7.3.0",
+                    "phpseclib/phpseclib": "^2.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.8.36",
+                    "squizlabs/php_codesniffer": "3.5.8"
+                },
+                "time": "2024-09-01T19:29:40+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "IMSGlobal\\LTI\\": "src/lti"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "IMSGlobal\\LTI\\Tests\\": "tests/"
+                    }
+                },
+                "scripts": {
+                    "lint": [
+                        "phpcs src"
+                    ],
+                    "test": [
+                        "phpunit tests/unit"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Martin Lenord",
+                        "email": "ims.m@rtin.dev"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/lti-1-3-php-library/tree/PLT-861-migrate-from-standalone-docker-compose",
+                    "issues": "https://github.com/techfromsage/lti-1-3-php-library/issues"
+                }
+            },
+            {
+                "name": "talis/lti-1p3-php-library",
+                "version": "dev-TA-2095-upgrade-php-jwt",
+                "version_normalized": "dev-TA-2095-upgrade-php-jwt",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/lti-1-3-php-library.git",
+                    "reference": "ffa92669058d5596d92c84833c5faadf6ad00ab7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/lti-1-3-php-library/zipball/ffa92669058d5596d92c84833c5faadf6ad00ab7",
+                    "reference": "ffa92669058d5596d92c84833c5faadf6ad00ab7",
+                    "shasum": ""
+                },
+                "require": {
+                    "firebase/php-jwt": "6.2",
+                    "paragonie/random_compat": "~1.0|~2.0|~9.99",
+                    "php": ">=7.3.0",
+                    "phpseclib/phpseclib": "^2.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.8.36",
+                    "squizlabs/php_codesniffer": "3.5.8"
+                },
+                "time": "2025-02-28T17:24:49+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "IMSGlobal\\LTI\\": "src/lti"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "IMSGlobal\\LTI\\Tests\\": "tests/"
+                    }
+                },
+                "scripts": {
+                    "lint": [
+                        "phpcs src"
+                    ],
+                    "test": [
+                        "phpunit tests/unit"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Martin Lenord",
+                        "email": "ims.m@rtin.dev"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/lti-1-3-php-library/tree/TA-2095-upgrade-php-jwt",
+                    "issues": "https://github.com/techfromsage/lti-1-3-php-library/issues"
+                }
+            },
+            {
+                "name": "talis/lti-1p3-php-library",
+                "version": "dev-add-user-agent-for-certificate-fetch",
+                "version_normalized": "dev-add-user-agent-for-certificate-fetch",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/lti-1-3-php-library.git",
+                    "reference": "6abf8be0a744fd289bbd1b59a7adabff7006690b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/lti-1-3-php-library/zipball/6abf8be0a744fd289bbd1b59a7adabff7006690b",
+                    "reference": "6abf8be0a744fd289bbd1b59a7adabff7006690b",
+                    "shasum": ""
+                },
+                "require": {
+                    "firebase/php-jwt": "6.2",
+                    "paragonie/random_compat": "~1.0|~2.0|~9.99",
+                    "php": ">=7.3.0",
+                    "phpseclib/phpseclib": "^2.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.8.36",
+                    "squizlabs/php_codesniffer": "3.5.8"
+                },
+                "time": "2025-07-03T16:50:27+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "IMSGlobal\\LTI\\": "src/lti"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "IMSGlobal\\LTI\\Tests\\": "tests/"
+                    }
+                },
+                "scripts": {
+                    "lint": [
+                        "phpcs src"
+                    ],
+                    "test": [
+                        "phpunit tests/unit"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Martin Lenord",
+                        "email": "ims.m@rtin.dev"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/lti-1-3-php-library/tree/add-user-agent-for-certificate-fetch",
+                    "issues": "https://github.com/techfromsage/lti-1-3-php-library/issues"
+                }
+            },
+            {
+                "name": "talis/lti-1p3-php-library",
+                "version": "dev-allow_access_to_original_oidc_request_parameters",
+                "version_normalized": "dev-allow_access_to_original_oidc_request_parameters",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/lti-1-3-php-library.git",
+                    "reference": "d1cb4d0c493d4ef7c3d4a06123cbbc013c8f32b0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/lti-1-3-php-library/zipball/d1cb4d0c493d4ef7c3d4a06123cbbc013c8f32b0",
+                    "reference": "d1cb4d0c493d4ef7c3d4a06123cbbc013c8f32b0",
+                    "shasum": ""
+                },
+                "require": {
+                    "fproject/php-jwt": "^4.0",
+                    "paragonie/random_compat": "<9.99",
+                    "phpseclib/phpseclib": "^2.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.8.36",
+                    "squizlabs/php_codesniffer": "3.5.8"
+                },
+                "time": "2022-10-11T12:33:37+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "IMSGlobal\\LTI\\": "src/lti"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "IMSGlobal\\LTI\\Tests\\": "tests/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Martin Lenord",
+                        "email": "ims.m@rtin.dev"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/lti-1-3-php-library/tree/allow_access_to_original_oidc_request_parameters",
+                    "issues": "https://github.com/techfromsage/lti-1-3-php-library/issues"
+                }
+            },
+            {
+                "name": "talis/lti-1p3-php-library",
+                "version": "dev-composer",
+                "version_normalized": "dev-composer",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/lti-1-3-php-library.git",
+                    "reference": "3b9f00fe6e8d0979593aa1466e56dd7704089573"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/lti-1-3-php-library/zipball/3b9f00fe6e8d0979593aa1466e56dd7704089573",
+                    "reference": "3b9f00fe6e8d0979593aa1466e56dd7704089573",
+                    "shasum": ""
+                },
+                "require": {
+                    "fproject/php-jwt": "^4.0",
+                    "phpseclib/phpseclib": "^2.0"
+                },
+                "time": "2019-10-14T08:21:09+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "IMSGlobal\\LTI\\": "src/lti"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Martin Lenord",
+                        "email": "ims.m@rtin.dev"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/lti-1-3-php-library/tree/composer",
+                    "issues": "https://github.com/techfromsage/lti-1-3-php-library/issues"
+                }
+            },
+            {
+                "name": "talis/lti-1p3-php-library",
+                "version": "dev-dev-php55",
+                "version_normalized": "dev-dev-php55",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/lti-1-3-php-library.git",
+                    "reference": "c3818ade4f919558142f77ec47af27369ce58cf7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/lti-1-3-php-library/zipball/c3818ade4f919558142f77ec47af27369ce58cf7",
+                    "reference": "c3818ade4f919558142f77ec47af27369ce58cf7",
+                    "shasum": ""
+                },
+                "require": {
+                    "fproject/php-jwt": "^4.0",
+                    "phpseclib/phpseclib": "^2.0"
+                },
+                "time": "2020-06-24T13:13:13+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "IMSGlobal\\LTI\\": "src/lti"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Martin Lenord",
+                        "email": "ims.m@rtin.dev"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/lti-1-3-php-library/tree/dev-php55",
+                    "issues": "https://github.com/techfromsage/lti-1-3-php-library/issues"
+                }
+            },
+            {
+                "name": "talis/lti-1p3-php-library",
+                "version": "dev-feature/jwks_and_hybrid_redirect",
+                "version_normalized": "dev-feature/jwks_and_hybrid_redirect",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/lti-1-3-php-library.git",
+                    "reference": "013c9d2dcf6e672acc0ba86e12c5f01e230eb19e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/lti-1-3-php-library/zipball/013c9d2dcf6e672acc0ba86e12c5f01e230eb19e",
+                    "reference": "013c9d2dcf6e672acc0ba86e12c5f01e230eb19e",
+                    "shasum": ""
+                },
+                "require": {
+                    "fproject/php-jwt": "^4.0",
+                    "phpseclib/phpseclib": "^2.0"
+                },
+                "time": "2019-11-13T21:23:11+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "IMSGlobal\\LTI\\": "src/lti"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Martin Lenord",
+                        "email": "ims.m@rtin.dev"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/lti-1-3-php-library/tree/feature/jwks_and_hybrid_redirect",
+                    "issues": "https://github.com/techfromsage/lti-1-3-php-library/issues"
+                }
+            },
+            {
+                "name": "talis/lti-1p3-php-library",
+                "version": "dev-groups_and_sub_review",
+                "version_normalized": "dev-groups_and_sub_review",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/lti-1-3-php-library.git",
+                    "reference": "b124206a176e04c583f6197448153c866c105758"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/lti-1-3-php-library/zipball/b124206a176e04c583f6197448153c866c105758",
+                    "reference": "b124206a176e04c583f6197448153c866c105758",
+                    "shasum": ""
+                },
+                "require": {
+                    "fproject/php-jwt": "^4.0",
+                    "phpseclib/phpseclib": "^2.0"
+                },
+                "time": "2020-06-03T12:39:27+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "IMSGlobal\\LTI\\": "src/lti"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Martin Lenord",
+                        "email": "ims.m@rtin.dev"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/lti-1-3-php-library/tree/groups_and_sub_review",
+                    "issues": "https://github.com/techfromsage/lti-1-3-php-library/issues"
+                }
+            },
+            {
+                "name": "talis/lti-1p3-php-library",
+                "version": "dev-make_state_validation_optional",
+                "version_normalized": "dev-make_state_validation_optional",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/lti-1-3-php-library.git",
+                    "reference": "619666b23edd494a428708308789cbf8c36b4c2d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/lti-1-3-php-library/zipball/619666b23edd494a428708308789cbf8c36b4c2d",
+                    "reference": "619666b23edd494a428708308789cbf8c36b4c2d",
+                    "shasum": ""
+                },
+                "require": {
+                    "fproject/php-jwt": "^4.0",
+                    "paragonie/random_compat": "<9.99",
+                    "phpseclib/phpseclib": "^2.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.8.36",
+                    "squizlabs/php_codesniffer": "3.5.8"
+                },
+                "time": "2022-10-06T15:12:36+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "IMSGlobal\\LTI\\": "src/lti"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "IMSGlobal\\LTI\\Tests\\": "tests/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Martin Lenord",
+                        "email": "ims.m@rtin.dev"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/lti-1-3-php-library/tree/make_state_validation_optional",
+                    "issues": "https://github.com/techfromsage/lti-1-3-php-library/issues"
+                }
+            },
+            {
+                "name": "talis/lti-1p3-php-library",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/lti-1-3-php-library.git",
+                    "reference": "661fe183eb2c7233ced0b9f09f79d8bd44bb3756"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/lti-1-3-php-library/zipball/661fe183eb2c7233ced0b9f09f79d8bd44bb3756",
+                    "reference": "661fe183eb2c7233ced0b9f09f79d8bd44bb3756",
+                    "shasum": ""
+                },
+                "require": {
+                    "firebase/php-jwt": "6.2",
+                    "paragonie/random_compat": "~1.0|~2.0|~9.99",
+                    "php": ">=7.3.0",
+                    "phpseclib/phpseclib": "^2.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.8.36",
+                    "squizlabs/php_codesniffer": "3.5.8"
+                },
+                "time": "2025-07-03T16:58:29+00:00",
+                "default-branch": true,
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "IMSGlobal\\LTI\\": "src/lti"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "IMSGlobal\\LTI\\Tests\\": "tests/"
+                    }
+                },
+                "scripts": {
+                    "lint": [
+                        "phpcs src"
+                    ],
+                    "test": [
+                        "phpunit tests/unit"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Martin Lenord",
+                        "email": "ims.m@rtin.dev"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/lti-1-3-php-library/tree/0.9",
+                    "issues": "https://github.com/techfromsage/lti-1-3-php-library/issues"
+                }
+            },
+            {
+                "name": "talis/lti-1p3-php-library",
+                "version": "dev-old_library",
+                "version_normalized": "dev-old_library",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/lti-1-3-php-library.git",
+                    "reference": "0eca5f9b26b2db09a9c1a21e9fa39d0bc1df26fb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/lti-1-3-php-library/zipball/0eca5f9b26b2db09a9c1a21e9fa39d0bc1df26fb",
+                    "reference": "0eca5f9b26b2db09a9c1a21e9fa39d0bc1df26fb",
+                    "shasum": ""
+                },
+                "require": {
+                    "firebase/php-jwt": "^5.0"
+                },
+                "time": "2019-09-13T07:28:46+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "IMSGlobal\\LTI": "src/lti"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Martin Lenord",
+                        "email": "ims.m@rtin.dev"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/lti-1-3-php-library/tree/old_library",
+                    "issues": "https://github.com/techfromsage/lti-1-3-php-library/issues"
+                }
+            },
+            {
+                "name": "talis/lti-1p3-php-library",
+                "version": "dev-partitioned_cookie_support",
+                "version_normalized": "dev-partitioned_cookie_support",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/lti-1-3-php-library.git",
+                    "reference": "9e46bc5eecae9f62d4ffb5ba251c8734d8d9265f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/lti-1-3-php-library/zipball/9e46bc5eecae9f62d4ffb5ba251c8734d8d9265f",
+                    "reference": "9e46bc5eecae9f62d4ffb5ba251c8734d8d9265f",
+                    "shasum": ""
+                },
+                "require": {
+                    "fproject/php-jwt": "^4.0",
+                    "paragonie/random_compat": "~1.0|~2.0|~9.99",
+                    "php": ">=7.3.0",
+                    "phpseclib/phpseclib": "^2.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.8.36",
+                    "squizlabs/php_codesniffer": "3.5.8"
+                },
+                "time": "2024-06-21T09:05:56+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "IMSGlobal\\LTI\\": "src/lti"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "IMSGlobal\\LTI\\Tests\\": "tests/"
+                    }
+                },
+                "scripts": {
+                    "lint": [
+                        "phpcs src"
+                    ],
+                    "test": [
+                        "phpunit tests/unit"
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "Martin Lenord",
+                        "email": "ims.m@rtin.dev"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/lti-1-3-php-library/tree/partitioned_cookie_support",
+                    "issues": "https://github.com/techfromsage/lti-1-3-php-library/issues"
+                }
+            },
+            {
+                "name": "talis/lti-1p3-php-library",
+                "version": "dev-php55",
+                "version_normalized": "dev-php55",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/lti-1-3-php-library.git",
+                    "reference": "6a279ecede74b89b020b1ca6f19e6b18b4448be6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/lti-1-3-php-library/zipball/6a279ecede74b89b020b1ca6f19e6b18b4448be6",
+                    "reference": "6a279ecede74b89b020b1ca6f19e6b18b4448be6",
+                    "shasum": ""
+                },
+                "require": {
+                    "fproject/php-jwt": "^4.0",
+                    "phpseclib/phpseclib": "^2.0"
+                },
+                "time": "2021-11-05T11:47:33+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "IMSGlobal\\LTI\\": "src/lti"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Martin Lenord",
+                        "email": "ims.m@rtin.dev"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/lti-1-3-php-library/tree/php55",
+                    "issues": "https://github.com/techfromsage/lti-1-3-php-library/issues"
+                }
+            },
+            {
+                "name": "talis/lti-1p3-php-library",
+                "version": "dev-samesite_cookies",
+                "version_normalized": "dev-samesite_cookies",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/lti-1-3-php-library.git",
+                    "reference": "e6ffb52e42e720747bd4f8f6c044c48e8210a994"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/lti-1-3-php-library/zipball/e6ffb52e42e720747bd4f8f6c044c48e8210a994",
+                    "reference": "e6ffb52e42e720747bd4f8f6c044c48e8210a994",
+                    "shasum": ""
+                },
+                "require": {
+                    "fproject/php-jwt": "^4.0",
+                    "phpseclib/phpseclib": "^2.0"
+                },
+                "time": "2020-02-07T16:40:29+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "IMSGlobal\\LTI\\": "src/lti"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Martin Lenord",
+                        "email": "ims.m@rtin.dev"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/lti-1-3-php-library/tree/samesite_cookies",
+                    "issues": "https://github.com/techfromsage/lti-1-3-php-library/issues"
+                }
+            },
+            {
+                "name": "talis/lti-1p3-php-library",
+                "version": "dev-with_composer",
+                "version_normalized": "dev-with_composer",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/lti-1-3-php-library.git",
+                    "reference": "87a7356e1c9ba7c75f983afca225adec20c5898b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/lti-1-3-php-library/zipball/87a7356e1c9ba7c75f983afca225adec20c5898b",
+                    "reference": "87a7356e1c9ba7c75f983afca225adec20c5898b",
+                    "shasum": ""
+                },
+                "require": {
+                    "firebase/php-jwt": "^5.0"
+                },
+                "time": "2019-05-20T13:41:29+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "IMSGlobal\\LTI": "src/lti"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Martin Lenord",
+                        "email": "ims.m@rtin.dev"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/lti-1-3-php-library/tree/with_composer",
+                    "issues": "https://github.com/techfromsage/lti-1-3-php-library/issues"
+                }
+            }
+        ]
+    }
+}

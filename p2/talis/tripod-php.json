@@ -1,0 +1,3000 @@
+{
+    "packages": {
+        "talis/tripod-php": [
+            {
+                "name": "talis/tripod-php",
+                "version": "0.10.0",
+                "version_normalized": "0.10.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "a632d3a46c16dd8a62a6356dd21d59a898044a38"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/a632d3a46c16dd8a62a6356dd21d59a898044a38",
+                    "reference": "a632d3a46c16dd8a62a6356dd21d59a898044a38",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "monolog/monolog": "~1.13",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2015-09-18T17:05:58+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/0.10.0",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.10.1",
+                "version_normalized": "0.10.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "9906ed09026fac6948acf5522721bcd837306f3b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/9906ed09026fac6948acf5522721bcd837306f3b",
+                    "reference": "9906ed09026fac6948acf5522721bcd837306f3b",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "monolog/monolog": "~1.13",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2015-10-14T17:48:27+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.10.1",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.10.2",
+                "version_normalized": "0.10.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "d441fdf5184298afb9e741711e43d4694edfdbea"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/d441fdf5184298afb9e741711e43d4694edfdbea",
+                    "reference": "d441fdf5184298afb9e741711e43d4694edfdbea",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "monolog/monolog": "~1.13",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2016-03-15T16:27:47+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.10.2",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.10.3",
+                "version_normalized": "0.10.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "9fa37d58551319078a9bf35ec1cd7b3e5eed4ebc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/9fa37d58551319078a9bf35ec1cd7b3e5eed4ebc",
+                    "reference": "9fa37d58551319078a9bf35ec1cd7b3e5eed4ebc",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "monolog/monolog": "~1.13",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2016-09-16T12:16:37+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.10.3",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.10.4",
+                "version_normalized": "0.10.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "b8a198ca20620ae8c4f6cc115eab0596d97fc93f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/b8a198ca20620ae8c4f6cc115eab0596d97fc93f",
+                    "reference": "b8a198ca20620ae8c4f6cc115eab0596d97fc93f",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "monolog/monolog": "~1.13",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2016-09-26T13:53:09+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.10.4",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.11.0",
+                "version_normalized": "0.11.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "0b9a96131e8c67fd1aafeb305c2de16af1635601"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/0b9a96131e8c67fd1aafeb305c2de16af1635601",
+                    "reference": "0b9a96131e8c67fd1aafeb305c2de16af1635601",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "mongodb/mongodb": "^1.0.0",
+                    "monolog/monolog": "~1.13",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2016-11-03T13:59:12+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.11.0",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.11.1",
+                "version_normalized": "0.11.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "78c109551d919d7543790b05ef30bbbf6e51e1f3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/78c109551d919d7543790b05ef30bbbf6e51e1f3",
+                    "reference": "78c109551d919d7543790b05ef30bbbf6e51e1f3",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "mongodb/mongodb": "^1.0.0",
+                    "monolog/monolog": "~1.13",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2016-11-23T14:48:21+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.11.1",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.11.2",
+                "version_normalized": "0.11.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "97c88f615809e8267f2e6326b3ba4b88f531929e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/97c88f615809e8267f2e6326b3ba4b88f531929e",
+                    "reference": "97c88f615809e8267f2e6326b3ba4b88f531929e",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "mongodb/mongodb": "^1.0.0",
+                    "monolog/monolog": "~1.13",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2017-01-20T10:32:28+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.11.2",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.11.3",
+                "version_normalized": "0.11.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "d3f95f39ae3e187f28a98058a0c0759c8c3d2a5c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/d3f95f39ae3e187f28a98058a0c0759c8c3d2a5c",
+                    "reference": "d3f95f39ae3e187f28a98058a0c0759c8c3d2a5c",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "mongodb/mongodb": "^1.0.0",
+                    "monolog/monolog": "~1.13",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2017-02-13T13:31:09+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.11.3",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.11.4",
+                "version_normalized": "0.11.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "52363deb11f5dd3f833cbf5d097166f807edd59e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/52363deb11f5dd3f833cbf5d097166f807edd59e",
+                    "reference": "52363deb11f5dd3f833cbf5d097166f807edd59e",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "mongodb/mongodb": "^1.0.0",
+                    "monolog/monolog": "~1.13",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2017-02-23T17:19:52+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.11.4",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.11.5",
+                "version_normalized": "0.11.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "fc2933767870fcada9e237a17e5d28d65689dfe2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/fc2933767870fcada9e237a17e5d28d65689dfe2",
+                    "reference": "fc2933767870fcada9e237a17e5d28d65689dfe2",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "mongodb/mongodb": "^1.0.0",
+                    "monolog/monolog": "~1.13",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2017-07-18T13:23:49+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.11.5",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.12.0",
+                "version_normalized": "0.12.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "e41f890a281d9bb7695124c196a4a9c5f66d9172"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/e41f890a281d9bb7695124c196a4a9c5f66d9172",
+                    "reference": "e41f890a281d9bb7695124c196a4a9c5f66d9172",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "mongodb/mongodb": "1.0.4",
+                    "monolog/monolog": "~1.13",
+                    "php": ">=5.4",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2017-12-15T14:37:20+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.12.0",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.13.0",
+                "version_normalized": "0.13.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "4ae950e5b7b6864960184c15202c010f328e36d2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/4ae950e5b7b6864960184c15202c010f328e36d2",
+                    "reference": "4ae950e5b7b6864960184c15202c010f328e36d2",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "mongodb/mongodb": "1.0.4",
+                    "monolog/monolog": "~1.13",
+                    "php": ">=5.4",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*",
+                    "squizlabs/php_codesniffer": "3.2.*"
+                },
+                "time": "2018-04-16T16:51:15+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.13.0",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "0.14.0",
+                "version_normalized": "0.14.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "5536177d97dc1b99ee2d78e1e31ba0e13cf5d69e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/5536177d97dc1b99ee2d78e1e31ba0e13cf5d69e",
+                    "reference": "5536177d97dc1b99ee2d78e1e31ba0e13cf5d69e",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "mongodb/mongodb": "1.0.4",
+                    "monolog/monolog": "~1.13",
+                    "php": ">=5.4",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*",
+                    "squizlabs/php_codesniffer": "3.2.*"
+                },
+                "time": "2018-05-07T13:26:14+00:00",
+                "type": "library",
+                "autoload": {
+                    "classmap": [
+                        "src/"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/0.14.0",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.15.0",
+                "version_normalized": "0.15.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "77abf3e96a56b32079940f331ea5ccf269dcf5d4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/77abf3e96a56b32079940f331ea5ccf269dcf5d4",
+                    "reference": "77abf3e96a56b32079940f331ea5ccf269dcf5d4",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "mongodb/mongodb": "1.0.4",
+                    "monolog/monolog": "~1.13",
+                    "php": ">=5.5",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.8.",
+                    "squizlabs/php_codesniffer": "3.2.*"
+                },
+                "time": "2018-09-04T16:54:05+00:00",
+                "type": "library",
+                "autoload": {
+                    "classmap": [
+                        "src/"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.15.0",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.16.0",
+                "version_normalized": "0.16.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "8d8106d721e2fb827ee29a83a61533d461c7f514"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/8d8106d721e2fb827ee29a83a61533d461c7f514",
+                    "reference": "8d8106d721e2fb827ee29a83a61533d461c7f514",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "mongodb/mongodb": "1.0.4",
+                    "monolog/monolog": "~1.13",
+                    "php": ">=5.5",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.8.",
+                    "squizlabs/php_codesniffer": "3.2.*"
+                },
+                "time": "2018-09-07T13:40:24+00:00",
+                "type": "library",
+                "autoload": {
+                    "classmap": [
+                        "src/"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.16.0",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.17.0",
+                "version_normalized": "0.17.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "d7a586d48235ec27fd1384b8d2459e3222656a78"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/d7a586d48235ec27fd1384b8d2459e3222656a78",
+                    "reference": "d7a586d48235ec27fd1384b8d2459e3222656a78",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "mongodb/mongodb": "1.0.4",
+                    "monolog/monolog": "~1.13",
+                    "php": ">=5.5",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.8.",
+                    "squizlabs/php_codesniffer": "3.2.*"
+                },
+                "time": "2018-10-09T12:39:30+00:00",
+                "type": "library",
+                "autoload": {
+                    "classmap": [
+                        "src/"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.17.0",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "0.18.0",
+                "version_normalized": "0.18.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "beb7f956778a4a0be50704235a543d6a4429b365"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/beb7f956778a4a0be50704235a543d6a4429b365",
+                    "reference": "beb7f956778a4a0be50704235a543d6a4429b365",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "mongodb/mongodb": "1.0.4",
+                    "monolog/monolog": "~1.13",
+                    "php": ">=5.5",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.8.",
+                    "squizlabs/php_codesniffer": "3.2.*"
+                },
+                "time": "2019-09-20T03:22:33+00:00",
+                "type": "library",
+                "autoload": {
+                    "classmap": [
+                        "src/"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/0.18.0",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "0.19.0",
+                "version_normalized": "0.19.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "1e47becc9d38669d0137c94e2d6c4b3a6f8ac4cf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/1e47becc9d38669d0137c94e2d6c4b3a6f8ac4cf",
+                    "reference": "1e47becc9d38669d0137c94e2d6c4b3a6f8ac4cf",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "mongodb/mongodb": "1.0.4",
+                    "monolog/monolog": "~1.13",
+                    "php": ">=5.5",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.8.",
+                    "squizlabs/php_codesniffer": "3.2.*"
+                },
+                "time": "2020-11-18T11:38:33+00:00",
+                "type": "library",
+                "autoload": {
+                    "classmap": [
+                        "src/"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/0.19.0",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "0.20.0",
+                "version_normalized": "0.20.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "12285086e61c93a84a963a4f421b72bae1fd4deb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/12285086e61c93a84a963a4f421b72bae1fd4deb",
+                    "reference": "12285086e61c93a84a963a4f421b72bae1fd4deb",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "mongodb/mongodb": "1.0.4",
+                    "monolog/monolog": "~1.13",
+                    "php": ">=5.5",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "^4.8",
+                    "squizlabs/php_codesniffer": "3.2.*"
+                },
+                "time": "2022-08-31T13:36:21+00:00",
+                "type": "library",
+                "autoload": {
+                    "classmap": [
+                        "src/"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/0.20.0",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "0.21.0",
+                "version_normalized": "0.21.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "1b581595ed3772afb69fc49dd9346493081130a8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/1b581595ed3772afb69fc49dd9346493081130a8",
+                    "reference": "1b581595ed3772afb69fc49dd9346493081130a8",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "mongodb/mongodb": "1.0.5",
+                    "monolog/monolog": "~1.13",
+                    "php": ">=5.5",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "^4.8",
+                    "squizlabs/php_codesniffer": "3.2.*"
+                },
+                "time": "2023-04-05T12:00:16+00:00",
+                "type": "library",
+                "autoload": {
+                    "classmap": [
+                        "src/"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/0.21.0",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "0.22.0",
+                "version_normalized": "0.22.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "2bf138914f64f4b2c47bf9c42941c001e70cfd05"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/2bf138914f64f4b2c47bf9c42941c001e70cfd05",
+                    "reference": "2bf138914f64f4b2c47bf9c42941c001e70cfd05",
+                    "shasum": ""
+                },
+                "require": {
+                    "monolog/monolog": "~1.13",
+                    "php": ">=5.5",
+                    "semsol/arc2": "2.2.6"
+                },
+                "require-dev": {
+                    "mongodb/mongodb": "1.4.3",
+                    "phpunit/phpunit": "^4.8",
+                    "resque/php-resque": "v1.3.4",
+                    "squizlabs/php_codesniffer": "3.2.*"
+                },
+                "suggest": {
+                    "mongodb/mongodb": "MongoDB driver library",
+                    "resque/php-resque": "Redis backed library for background jobs"
+                },
+                "time": "2023-10-26T08:18:49+00:00",
+                "type": "library",
+                "autoload": {
+                    "classmap": [
+                        "src/"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/0.22.0",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "0.23.0",
+                "version_normalized": "0.23.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "e7c7b5852c95b94f339e3d9436f83fe197687789"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/e7c7b5852c95b94f339e3d9436f83fe197687789",
+                    "reference": "e7c7b5852c95b94f339e3d9436f83fe197687789",
+                    "shasum": ""
+                },
+                "require": {
+                    "monolog/monolog": "~1.13",
+                    "php": ">=5.5",
+                    "semsol/arc2": "2.2.6"
+                },
+                "require-dev": {
+                    "mongodb/mongodb": "1.4.3",
+                    "phpunit/phpunit": "^4.8",
+                    "resque/php-resque": "v1.3.4",
+                    "squizlabs/php_codesniffer": "3.2.*"
+                },
+                "suggest": {
+                    "mongodb/mongodb": "MongoDB driver library",
+                    "resque/php-resque": "Redis backed library for background jobs"
+                },
+                "time": "2023-12-01T13:54:49+00:00",
+                "type": "library",
+                "autoload": {
+                    "classmap": [
+                        "src/"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/0.23.0",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "0.23.1",
+                "version_normalized": "0.23.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "428acd7e190e2427a8ee8dce724afc79b0ea249f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/428acd7e190e2427a8ee8dce724afc79b0ea249f",
+                    "reference": "428acd7e190e2427a8ee8dce724afc79b0ea249f",
+                    "shasum": ""
+                },
+                "require": {
+                    "monolog/monolog": "~1.13",
+                    "php": ">=5.5",
+                    "semsol/arc2": "2.2.6"
+                },
+                "require-dev": {
+                    "mongodb/mongodb": "1.4.3",
+                    "phpunit/phpunit": "^4.8",
+                    "resque/php-resque": "v1.3.4",
+                    "squizlabs/php_codesniffer": "3.2.*"
+                },
+                "suggest": {
+                    "mongodb/mongodb": "MongoDB driver library",
+                    "resque/php-resque": "Redis backed library for background jobs"
+                },
+                "time": "2023-12-05T12:51:35+00:00",
+                "type": "library",
+                "autoload": {
+                    "classmap": [
+                        "src/"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/0.23.1",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "0.23.2",
+                "version_normalized": "0.23.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "9d4f0007c54bbfecdb4d755a1fc1ab6923918212"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/9d4f0007c54bbfecdb4d755a1fc1ab6923918212",
+                    "reference": "9d4f0007c54bbfecdb4d755a1fc1ab6923918212",
+                    "shasum": ""
+                },
+                "require": {
+                    "monolog/monolog": "~1.13",
+                    "php": ">=5.5",
+                    "semsol/arc2": "2.2.6"
+                },
+                "require-dev": {
+                    "mongodb/mongodb": "1.4.3",
+                    "phpunit/phpunit": "^4.8",
+                    "resque/php-resque": "v1.3.4",
+                    "squizlabs/php_codesniffer": "3.2.*"
+                },
+                "suggest": {
+                    "mongodb/mongodb": "MongoDB driver library",
+                    "resque/php-resque": "Redis backed library for background jobs"
+                },
+                "time": "2024-01-17T09:52:08+00:00",
+                "type": "library",
+                "autoload": {
+                    "classmap": [
+                        "src/"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/0.23.2",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "0.24.0",
+                "version_normalized": "0.24.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "d89fdc0cdc82e496f5880dd4a746f836d23dee4d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/d89fdc0cdc82e496f5880dd4a746f836d23dee4d",
+                    "reference": "d89fdc0cdc82e496f5880dd4a746f836d23dee4d",
+                    "shasum": ""
+                },
+                "require": {
+                    "monolog/monolog": "~1.13",
+                    "php": ">=5.5",
+                    "semsol/arc2": "2.2.6"
+                },
+                "require-dev": {
+                    "mongodb/mongodb": "1.4.3",
+                    "phpunit/phpunit": "^4.8",
+                    "resque/php-resque": "v1.3.4",
+                    "squizlabs/php_codesniffer": "3.2.*"
+                },
+                "suggest": {
+                    "mongodb/mongodb": "MongoDB driver library",
+                    "resque/php-resque": "Redis backed library for background jobs"
+                },
+                "time": "2024-01-22T12:10:35+00:00",
+                "type": "library",
+                "autoload": {
+                    "classmap": [
+                        "src/"
+                    ]
+                },
+                "scripts": {
+                    "test": [
+                        "phpunit"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/0.24.0",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "0.25.0",
+                "version_normalized": "0.25.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "4fa81cc0b0456c4999a6ae3ecc24eb8110faba9c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/4fa81cc0b0456c4999a6ae3ecc24eb8110faba9c",
+                    "reference": "4fa81cc0b0456c4999a6ae3ecc24eb8110faba9c",
+                    "shasum": ""
+                },
+                "require": {
+                    "mongodb/mongodb": "*",
+                    "monolog/monolog": "~1.13",
+                    "php": ">=5.5",
+                    "semsol/arc2": "2.2.6"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "^4.8",
+                    "resque/php-resque": "v1.3.4",
+                    "squizlabs/php_codesniffer": "3.2.*"
+                },
+                "suggest": {
+                    "resque/php-resque": "Redis backed library for background jobs"
+                },
+                "time": "2024-08-09T14:41:35+00:00",
+                "type": "library",
+                "autoload": {
+                    "classmap": [
+                        "src/"
+                    ]
+                },
+                "scripts": {
+                    "test": [
+                        "phpunit"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/0.25.0",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "0.26.0",
+                "version_normalized": "0.26.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "66b935c3fffa4919b53f832fe3ec982ea22169f6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/66b935c3fffa4919b53f832fe3ec982ea22169f6",
+                    "reference": "66b935c3fffa4919b53f832fe3ec982ea22169f6",
+                    "shasum": ""
+                },
+                "require": {
+                    "mongodb/mongodb": "*",
+                    "monolog/monolog": "~1.13",
+                    "php": ">=7.3",
+                    "semsol/arc2": "2.2.6"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "^9.6.20",
+                    "resque/php-resque": "v1.3.6",
+                    "squizlabs/php_codesniffer": "3.2.*"
+                },
+                "suggest": {
+                    "resque/php-resque": "Redis backed library for background jobs"
+                },
+                "time": "2024-09-12T08:32:29+00:00",
+                "type": "library",
+                "autoload": {
+                    "classmap": [
+                        "src/"
+                    ]
+                },
+                "autoload-dev": {
+                    "classmap": [
+                        "test/"
+                    ]
+                },
+                "scripts": {
+                    "test": [
+                        "phpunit"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/0.26.0",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.27.0",
+                "version_normalized": "0.27.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "0db75e5133f41b2b8e8709b29bed835a5c5b920d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/0db75e5133f41b2b8e8709b29bed835a5c5b920d",
+                    "reference": "0db75e5133f41b2b8e8709b29bed835a5c5b920d",
+                    "shasum": ""
+                },
+                "require": {
+                    "mongodb/mongodb": "*",
+                    "monolog/monolog": "~1.13",
+                    "php": ">=7.3",
+                    "semsol/arc2": "2.2.6"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "^9.6.20",
+                    "resque/php-resque": "v1.3.6",
+                    "squizlabs/php_codesniffer": "3.2.*"
+                },
+                "suggest": {
+                    "resque/php-resque": "Redis backed library for background jobs"
+                },
+                "time": "2024-11-04T09:02:53+00:00",
+                "type": "library",
+                "autoload": {
+                    "classmap": [
+                        "src/"
+                    ]
+                },
+                "autoload-dev": {
+                    "classmap": [
+                        "test/"
+                    ]
+                },
+                "scripts": {
+                    "test": [
+                        "phpunit"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.27.0",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "0.28.0",
+                "version_normalized": "0.28.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "499eabb50766851458c46902b4537794e25d840a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/499eabb50766851458c46902b4537794e25d840a",
+                    "reference": "499eabb50766851458c46902b4537794e25d840a",
+                    "shasum": ""
+                },
+                "require": {
+                    "mongodb/mongodb": "*",
+                    "monolog/monolog": "~1.13",
+                    "php": ">=7.3",
+                    "semsol/arc2": "2.2.6"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "^9.6.20",
+                    "resque/php-resque": "v1.3.6",
+                    "squizlabs/php_codesniffer": "3.2.*"
+                },
+                "suggest": {
+                    "resque/php-resque": "Redis backed library for background jobs"
+                },
+                "time": "2024-12-11T08:32:53+00:00",
+                "type": "library",
+                "autoload": {
+                    "classmap": [
+                        "src/"
+                    ]
+                },
+                "autoload-dev": {
+                    "classmap": [
+                        "test/"
+                    ]
+                },
+                "scripts": {
+                    "test": [
+                        "phpunit"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/0.28.0",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "0.4.1",
+                "version_normalized": "0.4.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "9f10baae3a937d42873e751df2c5d09b21dd1ae1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/9f10baae3a937d42873e751df2c5d09b21dd1ae1",
+                    "reference": "9f10baae3a937d42873e751df2c5d09b21dd1ae1",
+                    "shasum": ""
+                },
+                "require": {
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "3.7.*"
+                },
+                "time": "2014-03-31T12:41:26+00:00",
+                "type": "tripod php",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/0.4.1",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "0.5.0",
+                "version_normalized": "0.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "57f59b1a27854a2d0812891d0811e4908b8285b5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/57f59b1a27854a2d0812891d0811e4908b8285b5",
+                    "reference": "57f59b1a27854a2d0812891d0811e4908b8285b5",
+                    "shasum": ""
+                },
+                "require": {
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "3.7.*"
+                },
+                "time": "2014-02-28T23:13:20+00:00",
+                "type": "tripod php",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/0.5.0",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "0.5.2",
+                "version_normalized": "0.5.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "ad0593888bbccaa4e7a73a80948a67ecac6ebe4d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/ad0593888bbccaa4e7a73a80948a67ecac6ebe4d",
+                    "reference": "ad0593888bbccaa4e7a73a80948a67ecac6ebe4d",
+                    "shasum": ""
+                },
+                "require": {
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "3.7.*"
+                },
+                "time": "2014-06-24T13:01:28+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/0.5.2",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.6.0",
+                "version_normalized": "0.6.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "6504952f11fe9f753fafd49e82a1e8060f9d8f19"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/6504952f11fe9f753fafd49e82a1e8060f9d8f19",
+                    "reference": "6504952f11fe9f753fafd49e82a1e8060f9d8f19",
+                    "shasum": ""
+                },
+                "require": {
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "3.7.*"
+                },
+                "time": "2014-09-12T14:02:37+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.6.0",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.6.1",
+                "version_normalized": "0.6.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "df77006043083695059609b01e84aa67c74892a5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/df77006043083695059609b01e84aa67c74892a5",
+                    "reference": "df77006043083695059609b01e84aa67c74892a5",
+                    "shasum": ""
+                },
+                "require": {
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "3.7.*"
+                },
+                "time": "2014-10-06T15:26:32+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.6.1",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.7.0",
+                "version_normalized": "0.7.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "656360c8eb2c366b8712efa765f620832b4ba2e0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/656360c8eb2c366b8712efa765f620832b4ba2e0",
+                    "reference": "656360c8eb2c366b8712efa765f620832b4ba2e0",
+                    "shasum": ""
+                },
+                "require": {
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "3.7.*"
+                },
+                "time": "2014-10-07T15:04:15+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.7.0",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.7.1",
+                "version_normalized": "0.7.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "13ed10cd44a30aa135e7d76c68a1e88b4f76f129"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/13ed10cd44a30aa135e7d76c68a1e88b4f76f129",
+                    "reference": "13ed10cd44a30aa135e7d76c68a1e88b4f76f129",
+                    "shasum": ""
+                },
+                "require": {
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "3.7.*"
+                },
+                "time": "2014-10-14T08:50:23+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.7.1",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.7.2",
+                "version_normalized": "0.7.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "402e18595671adfc75c4d7395d2fd38218beecee"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/402e18595671adfc75c4d7395d2fd38218beecee",
+                    "reference": "402e18595671adfc75c4d7395d2fd38218beecee",
+                    "shasum": ""
+                },
+                "require": {
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "3.7.*"
+                },
+                "time": "2014-10-21T08:52:57+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.7.2",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.7.3",
+                "version_normalized": "0.7.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "acea9a62f84df8b74c40fe6c8153b3f0e1839883"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/acea9a62f84df8b74c40fe6c8153b3f0e1839883",
+                    "reference": "acea9a62f84df8b74c40fe6c8153b3f0e1839883",
+                    "shasum": ""
+                },
+                "require": {
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "3.7.*"
+                },
+                "time": "2015-02-11T15:29:16+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.7.3",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.8.0",
+                "version_normalized": "0.8.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "c2eb33db15c38f4181f3b7ebd735e2e155746738"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/c2eb33db15c38f4181f3b7ebd735e2e155746738",
+                    "reference": "c2eb33db15c38f4181f3b7ebd735e2e155746738",
+                    "shasum": ""
+                },
+                "require": {
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2015-02-23T16:13:09+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.8.0",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.8.1",
+                "version_normalized": "0.8.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "b5e00c30ba2ddeda7042ba21eecdf57559127941"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/b5e00c30ba2ddeda7042ba21eecdf57559127941",
+                    "reference": "b5e00c30ba2ddeda7042ba21eecdf57559127941",
+                    "shasum": ""
+                },
+                "require": {
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2015-03-25T12:04:56+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.8.1",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.8.2",
+                "version_normalized": "0.8.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "34b0ca0783c41fc58b18fefe625ea510854248f9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/34b0ca0783c41fc58b18fefe625ea510854248f9",
+                    "reference": "34b0ca0783c41fc58b18fefe625ea510854248f9",
+                    "shasum": ""
+                },
+                "require": {
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2015-04-24T13:28:30+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.8.2",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.8.3",
+                "version_normalized": "0.8.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "66ede04eb0d2c0ba0d1d7b159d48ce2e3bb921f4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/66ede04eb0d2c0ba0d1d7b159d48ce2e3bb921f4",
+                    "reference": "66ede04eb0d2c0ba0d1d7b159d48ce2e3bb921f4",
+                    "shasum": ""
+                },
+                "require": {
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2015-05-15T09:15:57+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.8.3",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.8.4",
+                "version_normalized": "0.8.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "c7ffb6f9167d1cfdc1f2d2df5799d1d39d756acc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/c7ffb6f9167d1cfdc1f2d2df5799d1d39d756acc",
+                    "reference": "c7ffb6f9167d1cfdc1f2d2df5799d1d39d756acc",
+                    "shasum": ""
+                },
+                "require": {
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2015-05-21T11:43:12+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.8.4",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.8.5",
+                "version_normalized": "0.8.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "9ddf67d5d625fd5a47d1f407ae663d9690f3d6ad"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/9ddf67d5d625fd5a47d1f407ae663d9690f3d6ad",
+                    "reference": "9ddf67d5d625fd5a47d1f407ae663d9690f3d6ad",
+                    "shasum": ""
+                },
+                "require": {
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2015-05-29T09:10:48+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.8.5",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.9.0",
+                "version_normalized": "0.9.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "609a4a23e6360b381c1db7c05c25364f54073343"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/609a4a23e6360b381c1db7c05c25364f54073343",
+                    "reference": "609a4a23e6360b381c1db7c05c25364f54073343",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "monolog/monolog": "1.13.1",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2015-06-24T07:39:00+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.9.0",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.9.1",
+                "version_normalized": "0.9.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "3ee0a0422627444a127a3d7edd2cd82ae95dd806"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/3ee0a0422627444a127a3d7edd2cd82ae95dd806",
+                    "reference": "3ee0a0422627444a127a3d7edd2cd82ae95dd806",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "monolog/monolog": "1.13.1",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2015-06-24T15:38:30+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.9.1",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "0.9.2",
+                "version_normalized": "0.9.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "3c73c7e20f10608028de7fb4f4df4111e5190d3b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/3c73c7e20f10608028de7fb4f4df4111e5190d3b",
+                    "reference": "3c73c7e20f10608028de7fb4f4df4111e5190d3b",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "monolog/monolog": "1.13.1",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2015-06-25T22:05:34+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/0.9.2",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "0.9.3",
+                "version_normalized": "0.9.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "1dd9c2c217b5c1f621f224d7fb66aa5b3156bae8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/1dd9c2c217b5c1f621f224d7fb66aa5b3156bae8",
+                    "reference": "1dd9c2c217b5c1f621f224d7fb66aa5b3156bae8",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "monolog/monolog": "1.13.1",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2015-07-09T15:17:05+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/0.9.3",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "0.9.4",
+                "version_normalized": "0.9.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "89044e87b4105a0c3d5795507517f8e3721c146d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/89044e87b4105a0c3d5795507517f8e3721c146d",
+                    "reference": "89044e87b4105a0c3d5795507517f8e3721c146d",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "monolog/monolog": "1.13.1",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2015-07-23T09:01:56+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/0.9.4",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.9.5",
+                "version_normalized": "0.9.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "7cc3c0009c64f04c5dfbdc224ba025c11fa75bc8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/7cc3c0009c64f04c5dfbdc224ba025c11fa75bc8",
+                    "reference": "7cc3c0009c64f04c5dfbdc224ba025c11fa75bc8",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "monolog/monolog": "1.13.1",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2015-07-23T19:13:32+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.9.5",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "v0.9.6",
+                "version_normalized": "0.9.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "7cd9c7fdda2a0216f131d431c604e6bc0f73294e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/7cd9c7fdda2a0216f131d431c604e6bc0f73294e",
+                    "reference": "7cd9c7fdda2a0216f131d431c604e6bc0f73294e",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "monolog/monolog": "1.13.1",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2015-08-06T20:09:52+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/v0.9.6",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "0.9.7",
+                "version_normalized": "0.9.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "49678b39db2f3439f3cfda5d7720bd2122e3d45f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/49678b39db2f3439f3cfda5d7720bd2122e3d45f",
+                    "reference": "49678b39db2f3439f3cfda5d7720bd2122e3d45f",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "monolog/monolog": "~1.13",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2015-08-25T16:06:43+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/0.9.7",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "0.9.8",
+                "version_normalized": "0.9.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "ecbcd99f5e114f82e1b21e7c568a516985c6a070"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/ecbcd99f5e114f82e1b21e7c568a516985c6a070",
+                    "reference": "ecbcd99f5e114f82e1b21e7c568a516985c6a070",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "monolog/monolog": "~1.13",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2015-08-28T15:27:23+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/0.9.8",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "0.9.9",
+                "version_normalized": "0.9.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/techfromsage/tripod-php.git",
+                    "reference": "db2ecadf8fda8764c5cff925c45e3c73b7d70bfd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/techfromsage/tripod-php/zipball/db2ecadf8fda8764c5cff925c45e3c73b7d70bfd",
+                    "reference": "db2ecadf8fda8764c5cff925c45e3c73b7d70bfd",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "monolog/monolog": "~1.13",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2015-09-10T10:35:14+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/techfromsage/tripod-php/tree/0.9.9",
+                    "issues": "https://github.com/techfromsage/tripod-php/issues"
+                }
+            }
+        ]
+    }
+}
