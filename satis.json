@@ -1,6 +1,6 @@
 {
     "name": "techfromsage/composer",
-    "description": "TfS Composer repository",
+    "description": "Talis Composer repository",
     "homepage": "https://composer.talis.io/",
     "repositories": [
         {
@@ -67,5 +67,5 @@
     "require-all": true,
     "require-dependencies": true,
     "require-dev-dependencies": false,
-    "twig-template": "tfs-theme/index.html.twig"
+    "twig-template": "talis-theme/index.html.twig"
 }

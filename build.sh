@@ -18,6 +18,6 @@ docker run --rm \
     composer/satis:latest \
     build --ansi -vv satis.json dist
 
-cp tfs-theme/favicon.ico dist/
+cp talis-theme/favicon.ico dist/
 
 echo "Done! Open dist/index.html to see the result"
