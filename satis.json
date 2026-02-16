@@ -1,5 +1,5 @@
 {
-    "name": "techfromsage/composer",
+    "name": "talis/composer",
     "description": "Talis Composer repository",
     "homepage": "https://composer.talis.io/",
     "repositories": [
@@ -13,55 +13,55 @@
         },
         {
             "type": "vcs",
-            "url": "https://github.com/techfromsage/bootstrap-sass"
+            "url": "https://github.com/talis/bootstrap-sass"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/techfromsage/conneg"
+            "url": "https://github.com/talis/conneg"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/techfromsage/f3"
+            "url": "https://github.com/talis/f3"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/techfromsage/fatfree"
+            "url": "https://github.com/talis/fatfree"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/techfromsage/LTI1x-php"
+            "url": "https://github.com/talis/LTI1x-php"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/techfromsage/lti-1-3-php-library"
+            "url": "https://github.com/talis/lti-1-3-php-library"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/techfromsage/php-niso-openurl"
+            "url": "https://github.com/talis/php-niso-openurl"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/techfromsage/resque-multiple-failure-queues"
+            "url": "https://github.com/talis/resque-multiple-failure-queues"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/techfromsage/selenium-server-standalone"
+            "url": "https://github.com/talis/selenium-server-standalone"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/techfromsage/sierra-api-php-client"
+            "url": "https://github.com/talis/sierra-api-php-client"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/techfromsage/SRUClient-php"
+            "url": "https://github.com/talis/SRUClient-php"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/techfromsage/talis-php"
+            "url": "https://github.com/talis/talis-php"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/techfromsage/tripod-php"
+            "url": "https://github.com/talis/tripod-php"
         }
     ],
     "require-all": true,
