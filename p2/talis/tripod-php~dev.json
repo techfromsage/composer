@@ -1,0 +1,289 @@
+{
+    "packages": {
+        "talis/tripod-php": [
+            {
+                "name": "talis/tripod-php",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/talis/tripod-php.git",
+                    "reference": "8520d9d7c08a1f5a73202c844ab015aa411fd3df"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/talis/tripod-php/zipball/8520d9d7c08a1f5a73202c844ab015aa411fd3df",
+                    "reference": "8520d9d7c08a1f5a73202c844ab015aa411fd3df",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-mongodb": ">=1.7.0",
+                    "mongodb/mongodb": "*",
+                    "php": ">=7.4",
+                    "psr/log": "*",
+                    "semsol/arc2": "^2.2.6 || ^3.1.0"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "^3.4",
+                    "monolog/monolog": "^2.11 || ^3.10",
+                    "perftools/php-profiler": "^1.2",
+                    "phpstan/phpstan": "^2.1",
+                    "phpstan/phpstan-phpunit": "^2.0",
+                    "phpunit/phpunit": "^9.6.20",
+                    "resque/php-resque": "v1.3.6 || dev-develop"
+                },
+                "suggest": {
+                    "resque/php-resque": "Redis backed library for background jobs"
+                },
+                "time": "2026-09-10T09:05:19+00:00",
+                "default-branch": true,
+                "type": "library",
+                "autoload": {
+                    "classmap": [
+                        "src/"
+                    ],
+                    "exclude-from-classmap": [
+                        "src/resque/compat.inc.php"
+                    ]
+                },
+                "autoload-dev": {
+                    "classmap": [
+                        "test/",
+                        "phpstan/"
+                    ]
+                },
+                "scripts": {
+                    "lint": [
+                        "php-cs-fixer check"
+                    ],
+                    "analyse": [
+                        "phpstan analyse --memory-limit 1024M"
+                    ],
+                    "test": [
+                        "Composer\\Config::disableProcessTimeout",
+                        "phpunit"
+                    ],
+                    "coverage": [
+                        "Composer\\Config::disableProcessTimeout",
+                        "phpunit --coverage-text --coverage-html coverage --coverage-clover coverage/clover.xml"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/talis/tripod-php/tree/master"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "dev-remove-timeout-overrides",
+                "version_normalized": "dev-remove-timeout-overrides",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/talis/tripod-php.git",
+                    "reference": "c0b2b2dbee61839a4e7776f2c0f009e157e9636f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/talis/tripod-php/zipball/c0b2b2dbee61839a4e7776f2c0f009e157e9636f",
+                    "reference": "c0b2b2dbee61839a4e7776f2c0f009e157e9636f",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "monolog/monolog": "1.13.1",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2015-07-30T15:35:06+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/talis/tripod-php/tree/remove-timeout-overrides"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "dev-strict-type-migration",
+                "version_normalized": "dev-strict-type-migration",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/talis/tripod-php.git",
+                    "reference": "678255dc5ff6dee7f1fb4b54ffd3d12bb4de687c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/talis/tripod-php/zipball/678255dc5ff6dee7f1fb4b54ffd3d12bb4de687c",
+                    "reference": "678255dc5ff6dee7f1fb4b54ffd3d12bb4de687c",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-mongodb": ">=1.7.0",
+                    "mongodb/mongodb": "*",
+                    "php": ">=7.4",
+                    "psr/log": "*",
+                    "semsol/arc2": "^2.2.6 || ^3.1.0"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "^3.4",
+                    "monolog/monolog": "^2.11 || ^3.10",
+                    "perftools/php-profiler": "^1.2",
+                    "phpstan/phpstan": "^2.1",
+                    "phpstan/phpstan-phpunit": "^2.0",
+                    "phpunit/phpunit": "^9.6.20",
+                    "resque/php-resque": "v1.3.6 || dev-develop"
+                },
+                "suggest": {
+                    "resque/php-resque": "Redis backed library for background jobs"
+                },
+                "time": "2026-09-10T10:40:38+00:00",
+                "type": "library",
+                "autoload": {
+                    "classmap": [
+                        "src/"
+                    ],
+                    "exclude-from-classmap": [
+                        "src/resque/compat.inc.php"
+                    ]
+                },
+                "autoload-dev": {
+                    "classmap": [
+                        "test/",
+                        "phpstan/"
+                    ]
+                },
+                "scripts": {
+                    "lint": [
+                        "php-cs-fixer check"
+                    ],
+                    "analyse": [
+                        "phpstan analyse --memory-limit 1024M"
+                    ],
+                    "test": [
+                        "Composer\\Config::disableProcessTimeout",
+                        "phpunit"
+                    ],
+                    "coverage": [
+                        "Composer\\Config::disableProcessTimeout",
+                        "phpunit --coverage-text --coverage-html coverage --coverage-clover coverage/clover.xml"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/talis/tripod-php/tree/strict-type-migration"
+                }
+            },
+            {
+                "name": "talis/tripod-php",
+                "version": "dev-tripod-eventual-view-regeneration",
+                "version_normalized": "dev-tripod-eventual-view-regeneration",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/talis/tripod-php.git",
+                    "reference": "749e4ab960a6299339d27efb1e7283e3fb416947"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/talis/tripod-php/zipball/749e4ab960a6299339d27efb1e7283e3fb416947",
+                    "reference": "749e4ab960a6299339d27efb1e7283e3fb416947",
+                    "shasum": ""
+                },
+                "require": {
+                    "chrisboulton/php-resque": "dev-master#98fde571db008a8b48e73022599d1d1c07d4a7b5",
+                    "monolog/monolog": "~1.13",
+                    "semsol/arc2": "v2.2.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2016-06-11T08:41:14+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Clarke",
+                        "email": "cc@talis.com",
+                        "homepage": "http://talis.com/"
+                    },
+                    {
+                        "name": "Nadeem Shabir",
+                        "email": "ns@talis.com",
+                        "homepage": "http://talis.com/"
+                    }
+                ],
+                "description": "A library for managing RDF data in Mongo",
+                "homepage": "https://github.com/talis/tripod-php",
+                "keywords": [
+                    "rdf",
+                    "sparql"
+                ],
+                "support": {
+                    "source": "https://github.com/talis/tripod-php/tree/tripod-eventual-view-regeneration"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "packages": {
+        "talis/lti1x-php": [
+            {
+                "name": "talis/lti1x-php",
+                "version": "v0.1",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/talis/LTI1x-php.git",
+                    "reference": "392bfb7e3731442d2c9cc7cf9fffc3f4e60e35af"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/talis/LTI1x-php/zipball/392bfb7e3731442d2c9cc7cf9fffc3f4e60e35af",
+                    "reference": "392bfb7e3731442d2c9cc7cf9fffc3f4e60e35af",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3.0",
+                    "phpunit/phpunit": ">=3.7.0@stable"
+                },
+                "time": "2014-03-27T16:54:36+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "LTI1": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Ross Singer",
+                        "email": "rxs@talis.com",
+                        "homepage": "http://engineering.talis.com"
+                    }
+                ],
+                "description": "This is a php library for IMS LTI 1.x",
+                "homepage": "https://github.com/talis/LTI1x-php",
+                "keywords": [
+                    "library",
+                    "lti",
+                    "php"
+                ],
+                "support": {
+                    "source": "https://github.com/talis/LTI1x-php/tree/v0.1",
+                    "issues": "https://github.com/talis/LTI1x-php/issues"
+                }
+            },
+            {
+                "name": "talis/lti1x-php",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/talis/LTI1x-php.git",
+                    "reference": "e190ff9c6be7c2a15f1428cae5bf3573a18efce4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/talis/LTI1x-php/zipball/e190ff9c6be7c2a15f1428cae5bf3573a18efce4",
+                    "reference": "e190ff9c6be7c2a15f1428cae5bf3573a18efce4",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.5"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "^4.8"
+                },
+                "time": "2020-06-05T17:41:41+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "LTI1": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Ross Singer",
+                        "email": "rxs@talis.com",
+                        "homepage": "http://engineering.talis.com"
+                    }
+                ],
+                "description": "This is a php library for IMS LTI 1.x",
+                "homepage": "https://github.com/talis/LTI1x-php",
+                "keywords": [
+                    "library",
+                    "lti",
+                    "php"
+                ],
+                "support": {
+                    "source": "https://github.com/talis/LTI1x-php/tree/0.1.1",
+                    "issues": "https://github.com/talis/LTI1x-php/issues"
+                }
+            }
+        ]
+    }
+}

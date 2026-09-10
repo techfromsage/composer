@@ -1,0 +1,152 @@
+{
+    "packages": {
+        "talis/niso-openurl": [
+            {
+                "name": "talis/niso-openurl",
+                "version": "v0.1",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/talis/php-niso-openurl.git",
+                    "reference": "8464f40271b353c0101ec46b84fc3079a26add01"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/talis/php-niso-openurl/zipball/8464f40271b353c0101ec46b84fc3079a26add01",
+                    "reference": "8464f40271b353c0101ec46b84fc3079a26add01",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3.0",
+                    "phpunit/phpunit": ">=3.7.0@stable"
+                },
+                "time": "2014-05-02T14:53:17+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "OpenURL": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Ross Singer",
+                        "email": "rxs@talis.com",
+                        "homepage": "http://engineering.talis.com"
+                    }
+                ],
+                "description": "This is a php client library for parsing and generating NISO Z39.88 (OpenURL) context objects",
+                "homepage": "https://github.com/talis/php-niso-openurl",
+                "keywords": [
+                    "client library",
+                    "openurl",
+                    "php"
+                ],
+                "support": {
+                    "source": "https://github.com/talis/php-niso-openurl/tree/v0.1",
+                    "issues": "https://github.com/talis/php-niso-openurl/issues"
+                }
+            },
+            {
+                "name": "talis/niso-openurl",
+                "version": "0.2",
+                "version_normalized": "0.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/talis/php-niso-openurl.git",
+                    "reference": "c0245b0e8fb36cfc2bafa8a12b097eb489ff1e68"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/talis/php-niso-openurl/zipball/c0245b0e8fb36cfc2bafa8a12b097eb489ff1e68",
+                    "reference": "c0245b0e8fb36cfc2bafa8a12b097eb489ff1e68",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3.0",
+                    "phpunit/phpunit": ">=3.7.0@stable"
+                },
+                "time": "2015-04-14T12:33:38+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "OpenURL": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Ross Singer",
+                        "email": "rxs@talis.com",
+                        "homepage": "http://engineering.talis.com"
+                    }
+                ],
+                "description": "This is a php client library for parsing and generating NISO Z39.88 (OpenURL) context objects",
+                "homepage": "https://github.com/talis/php-niso-openurl",
+                "keywords": [
+                    "client library",
+                    "openurl",
+                    "php"
+                ],
+                "support": {
+                    "source": "https://github.com/talis/php-niso-openurl/tree/0.2",
+                    "issues": "https://github.com/talis/php-niso-openurl/issues"
+                }
+            },
+            {
+                "name": "talis/niso-openurl",
+                "version": "0.2.1",
+                "version_normalized": "0.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/talis/php-niso-openurl.git",
+                    "reference": "95cb401decdf53a4f3aeaa5b0fc2984a4686bcd2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/talis/php-niso-openurl/zipball/95cb401decdf53a4f3aeaa5b0fc2984a4686bcd2",
+                    "reference": "95cb401decdf53a4f3aeaa5b0fc2984a4686bcd2",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.5"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "^4.8"
+                },
+                "time": "2020-06-05T16:59:03+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "OpenURL": "src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Ross Singer",
+                        "email": "rxs@talis.com",
+                        "homepage": "http://engineering.talis.com"
+                    }
+                ],
+                "description": "This is a php client library for parsing and generating NISO Z39.88 (OpenURL) context objects",
+                "homepage": "https://github.com/talis/php-niso-openurl",
+                "keywords": [
+                    "client library",
+                    "openurl",
+                    "php"
+                ],
+                "support": {
+                    "source": "https://github.com/talis/php-niso-openurl/tree/0.2.1",
+                    "issues": "https://github.com/talis/php-niso-openurl/issues"
+                }
+            }
+        ]
+    }
+}

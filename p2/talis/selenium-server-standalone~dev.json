@@ -1,0 +1,36 @@
+{
+    "packages": {
+        "talis/selenium-server-standalone": [
+            {
+                "name": "talis/selenium-server-standalone",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/talis/selenium-server-standalone.git",
+                    "reference": "ae3af60c9ccad1f47dfadcf6d0f31ff8a9a8dca6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/talis/selenium-server-standalone/zipball/ae3af60c9ccad1f47dfadcf6d0f31ff8a9a8dca6",
+                    "reference": "ae3af60c9ccad1f47dfadcf6d0f31ff8a9a8dca6",
+                    "shasum": ""
+                },
+                "time": "2017-06-29T17:50:24+00:00",
+                "default-branch": true,
+                "type": "library",
+                "authors": [
+                    {
+                        "name": "OpenQA",
+                        "email": ""
+                    }
+                ],
+                "homepage": "http://docs.seleniumhq.org/",
+                "support": {
+                    "source": "https://github.com/talis/selenium-server-standalone/tree/2.53.1",
+                    "issues": "https://github.com/talis/selenium-server-standalone/issues"
+                }
+            }
+        ]
+    }
+}

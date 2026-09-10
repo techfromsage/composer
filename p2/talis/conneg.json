@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "talis/conneg": [
+            {
+                "name": "talis/conneg",
+                "version": "2.0.4",
+                "version_normalized": "2.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/talis/conneg.git",
+                    "reference": "9a74d002536a34f4dc60eab7ea1308f6cd94fed6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/talis/conneg/zipball/9a74d002536a34f4dc60eab7ea1308f6cd94fed6",
+                    "reference": "9a74d002536a34f4dc60eab7ea1308f6cd94fed6",
+                    "shasum": ""
+                },
+                "time": "2013-04-24T14:03:17+00:00",
+                "type": "library",
+                "authors": [
+                    {
+                        "name": "Talis",
+                        "email": "ab@talis.com"
+                    }
+                ],
+                "homepage": "http://talis.com",
+                "support": {
+                    "source": "https://github.com/talis/conneg/tree/2.0.4",
+                    "issues": "https://github.com/talis/conneg/issues"
+                }
+            }
+        ]
+    }
+}

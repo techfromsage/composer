@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "talis/fatfree": [
+            {
+                "name": "talis/fatfree",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/talis/fatfree.git",
+                    "reference": "9bb3fbe43034f9e3ddca98a73f1ceb7c3b8d619d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/talis/fatfree/zipball/9bb3fbe43034f9e3ddca98a73f1ceb7c3b8d619d",
+                    "reference": "9bb3fbe43034f9e3ddca98a73f1ceb7c3b8d619d",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3.6"
+                },
+                "time": "2017-06-19T14:53:32+00:00",
+                "default-branch": true,
+                "type": "library",
+                "autoload": {
+                    "classmap": [
+                        "lib/"
+                    ]
+                },
+                "license": [
+                    "GPL-3.0"
+                ],
+                "description": "A powerful yet easy-to-use PHP micro-framework designed to help you build dynamic and robust Web applications - fast!",
+                "homepage": "http://fatfreeframework.com/",
+                "support": {
+                    "source": "https://github.com/talis/fatfree/tree/3.6.1"
+                }
+            }
+        ]
+    }
+}
